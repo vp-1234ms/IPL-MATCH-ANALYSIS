@@ -1,0 +1,951 @@
+City,Season,Team1,Team2,Venue,TossWinner,TossDecision,SuperOver,WinningTeam,WonBy,Margin,method
+Ahmedabad,2022,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,bat,N,Gujarat Titans,Wickets,7,NA
+Ahmedabad,2022,Royal Challengers Bangalore,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Kolkata,2022,Royal Challengers Bangalore,Lucknow Super Giants,"Eden Gardens, Kolkata",Lucknow Super Giants,field,N,Royal Challengers Bangalore,Runs,14,NA
+Kolkata,2022,Rajasthan Royals,Gujarat Titans,"Eden Gardens, Kolkata",Gujarat Titans,field,N,Gujarat Titans,Wickets,7,NA
+Mumbai,2022,Sunrisers Hyderabad,Punjab Kings,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,bat,N,Punjab Kings,Wickets,5,NA
+Mumbai,2022,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Mumbai,2022,Chennai Super Kings,Rajasthan Royals,"Brabourne Stadium, Mumbai",Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,5,NA
+Mumbai,2022,Gujarat Titans,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Gujarat Titans,bat,N,Royal Challengers Bangalore,Wickets,8,NA
+Navi Mumbai,2022,Lucknow Super Giants,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,bat,N,Lucknow Super Giants,Runs,2,NA
+Mumbai,2022,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,field,N,Sunrisers Hyderabad,Runs,3,NA
+Navi Mumbai,2022,Delhi Capitals,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Punjab Kings,field,N,Delhi Capitals,Runs,17,NA
+Mumbai,2022,Rajasthan Royals,Lucknow Super Giants,"Brabourne Stadium, Mumbai",Rajasthan Royals,bat,N,Rajasthan Royals,Runs,24,NA
+Mumbai,2022,Chennai Super Kings,Gujarat Titans,"Wankhede Stadium, Mumbai",Chennai Super Kings,bat,N,Gujarat Titans,Wickets,7,NA
+Pune,2022,Kolkata Knight Riders,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,54,NA
+Mumbai,2022,Punjab Kings,Royal Challengers Bangalore,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,field,N,Punjab Kings,Runs,54,NA
+Mumbai,2022,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Navi Mumbai,2022,Rajasthan Royals,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,field,N,Delhi Capitals,Wickets,8,NA
+Pune,2022,Gujarat Titans,Lucknow Super Giants,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,bat,N,Gujarat Titans,Runs,62,NA
+Navi Mumbai,2022,Kolkata Knight Riders,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,field,N,Kolkata Knight Riders,Runs,52,NA
+Navi Mumbai,2022,Chennai Super Kings,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",Delhi Capitals,field,N,Chennai Super Kings,Runs,91,NA
+Mumbai,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,67,NA
+Pune,2022,Lucknow Super Giants,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,field,N,Lucknow Super Giants,Runs,75,NA
+Mumbai,2022,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",Punjab Kings,bat,N,Rajasthan Royals,Wickets,6,NA
+Mumbai,2022,Mumbai Indians,Gujarat Titans,"Brabourne Stadium, Mumbai",Gujarat Titans,field,N,Mumbai Indians,Runs,5,NA
+Mumbai,2022,Delhi Capitals,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,field,N,Delhi Capitals,Runs,21,NA
+Pune,2022,Royal Challengers Bangalore,Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,field,N,Royal Challengers Bangalore,Runs,13,NA
+Navi Mumbai,2022,Gujarat Titans,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,bat,N,Punjab Kings,Wickets,8,NA
+Mumbai,2022,Rajasthan Royals,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Pune,2022,Chennai Super Kings,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,field,N,Chennai Super Kings,Runs,13,NA
+Mumbai,2022,Lucknow Super Giants,Delhi Capitals,"Wankhede Stadium, Mumbai",Lucknow Super Giants,bat,N,Lucknow Super Giants,Runs,6,NA
+Navi Mumbai,2022,Rajasthan Royals,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Mumbai,2022,Royal Challengers Bangalore,Gujarat Titans,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,bat,N,Gujarat Titans,Wickets,6,NA
+Pune,2022,Lucknow Super Giants,Punjab Kings,"Maharashtra Cricket Association Stadium, Pune",Punjab Kings,field,N,Lucknow Super Giants,Runs,20,NA
+Mumbai,2022,Kolkata Knight Riders,Delhi Capitals,"Wankhede Stadium, Mumbai",Delhi Capitals,field,N,Delhi Capitals,Wickets,4,NA
+Mumbai,2022,Sunrisers Hyderabad,Gujarat Titans,"Wankhede Stadium, Mumbai",Gujarat Titans,field,N,Gujarat Titans,Wickets,5,NA
+Pune,2022,Rajasthan Royals,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,field,N,Rajasthan Royals,Runs,29,NA
+Mumbai,2022,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai",Chennai Super Kings,field,N,Punjab Kings,Runs,11,NA
+Mumbai,2022,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai Indians,field,N,Lucknow Super Giants,Runs,36,NA
+Mumbai,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,9,NA
+Navi Mumbai,2022,Gujarat Titans,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",Gujarat Titans,bat,N,Gujarat Titans,Runs,8,NA
+Mumbai,2022,Rajasthan Royals,Delhi Capitals,"Wankhede Stadium, Mumbai",Delhi Capitals,field,N,Rajasthan Royals,Runs,15,NA
+Navi Mumbai,2022,Mumbai Indians,Chennai Super Kings,"Dr DY Patil Sports Academy, Mumbai",Chennai Super Kings,field,N,Chennai Super Kings,Wickets,3,NA
+Mumbai,2022,Punjab Kings,Delhi Capitals,"Brabourne Stadium, Mumbai",Delhi Capitals,field,N,Delhi Capitals,Wickets,9,NA
+Mumbai,2022,Royal Challengers Bangalore,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,field,N,Royal Challengers Bangalore,Runs,18,NA
+Mumbai,2022,Rajasthan Royals,Kolkata Knight Riders,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,field,N,Rajasthan Royals,Runs,7,NA
+Pune,2022,Chennai Super Kings,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune",Gujarat Titans,field,N,Gujarat Titans,Wickets,3,NA
+Mumbai,2022,Punjab Kings,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,7,NA
+Mumbai,2022,Royal Challengers Bangalore,Delhi Capitals,"Wankhede Stadium, Mumbai",Delhi Capitals,field,N,Royal Challengers Bangalore,Runs,16,NA
+Mumbai,2022,Lucknow Super Giants,Mumbai Indians,"Brabourne Stadium, Mumbai",Mumbai Indians,field,N,Lucknow Super Giants,Runs,18,NA
+Mumbai,2022,Kolkata Knight Riders,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,7,NA
+Mumbai,2022,Gujarat Titans,Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai",Rajasthan Royals,field,N,Gujarat Titans,Runs,37,NA
+Pune,2022,Punjab Kings,Mumbai Indians,"Maharashtra Cricket Association Stadium, Pune",Mumbai Indians,field,N,Punjab Kings,Runs,12,NA
+Mumbai,2022,Chennai Super Kings,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,field,N,Chennai Super Kings,Runs,23,NA
+Mumbai,2022,Gujarat Titans,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,NA
+Mumbai,2022,Rajasthan Royals,Lucknow Super Giants,"Wankhede Stadium, Mumbai",Lucknow Super Giants,field,N,Rajasthan Royals,Runs,3,NA
+Mumbai,2022,Delhi Capitals,Kolkata Knight Riders,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,field,N,Delhi Capitals,Runs,44,NA
+Pune,2022,Mumbai Indians,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,NA
+Mumbai,2022,Chennai Super Kings,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,NA
+Mumbai,2022,Punjab Kings,Gujarat Titans,"Brabourne Stadium, Mumbai",Gujarat Titans,field,N,Gujarat Titans,Wickets,6,NA
+Mumbai,2022,Delhi Capitals,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",Lucknow Super Giants,field,N,Lucknow Super Giants,Wickets,6,NA
+Pune,2022,Mumbai Indians,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,NA
+Mumbai,2022,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,NA
+Mumbai,2022,Lucknow Super Giants,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Sunrisers Hyderabad,field,N,Lucknow Super Giants,Runs,12,NA
+Mumbai,2022,Punjab Kings,Chennai Super Kings,"Brabourne Stadium, Mumbai",Chennai Super Kings,field,N,Punjab Kings,Runs,54,NA
+Pune,2022,Gujarat Titans,Delhi Capitals,"Maharashtra Cricket Association Stadium, Pune",Delhi Capitals,field,N,Gujarat Titans,Runs,14,NA
+Mumbai,2022,Rajasthan Royals,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Mumbai Indians,field,N,Rajasthan Royals,Runs,23,NA
+Mumbai,2022,Punjab Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Mumbai,2022,Chennai Super Kings,Lucknow Super Giants,"Brabourne Stadium, Mumbai",Lucknow Super Giants,field,N,Lucknow Super Giants,Wickets,6,NA
+Mumbai,2022,Kolkata Knight Riders,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,3,NA
+Pune,2022,Rajasthan Royals,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,field,N,Rajasthan Royals,Runs,61,NA
+Mumbai,2022,Lucknow Super Giants,Gujarat Titans,"Wankhede Stadium, Mumbai",Gujarat Titans,field,N,Gujarat Titans,Wickets,5,NA
+Mumbai,2022,Royal Challengers Bangalore,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Punjab Kings,field,N,Punjab Kings,Wickets,5,NA
+Mumbai,2022,Mumbai Indians,Delhi Capitals,"Brabourne Stadium, Mumbai",Delhi Capitals,field,N,Delhi Capitals,Wickets,4,NA
+Mumbai,2022,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Dubai,2021,Chennai Super Kings,Kolkata Knight Riders,Dubai International Cricket Stadium,Kolkata Knight Riders,field,N,Chennai Super Kings,Runs,27,NA
+Sharjah,2021,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,3,NA
+Sharjah,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium,Royal Challengers Bangalore,bat,N,Kolkata Knight Riders,Wickets,4,NA
+Dubai,2021,Delhi Capitals,Chennai Super Kings,Dubai International Cricket Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,NA
+Dubai,2021,Delhi Capitals,Royal Challengers Bangalore,Dubai International Cricket Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,NA
+Abu Dhabi,2021,Mumbai Indians,Sunrisers Hyderabad,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,bat,N,Mumbai Indians,Runs,42,NA
+Sharjah,2021,Kolkata Knight Riders,Rajasthan Royals,Sharjah Cricket Stadium,Rajasthan Royals,field,N,Kolkata Knight Riders,Runs,86,NA
+Dubai,2021,Chennai Super Kings,Punjab Kings,Dubai International Cricket Stadium,Punjab Kings,field,N,Punjab Kings,Wickets,6,NA
+Abu Dhabi,2021,Sunrisers Hyderabad,Royal Challengers Bangalore,"Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,4,NA
+Sharjah,2021,Rajasthan Royals,Mumbai Indians,Sharjah Cricket Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,NA
+Dubai,2021,Chennai Super Kings,Delhi Capitals,Dubai International Cricket Stadium,Delhi Capitals,field,N,Delhi Capitals,Wickets,3,NA
+Sharjah,2021,Royal Challengers Bangalore,Punjab Kings,Sharjah Cricket Stadium,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,6,NA
+Dubai,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,6,NA
+Sharjah,2021,Mumbai Indians,Delhi Capitals,Sharjah Cricket Stadium,Delhi Capitals,field,N,Delhi Capitals,Wickets,4,NA
+Abu Dhabi,2021,Chennai Super Kings,Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Dubai,2021,Kolkata Knight Riders,Punjab Kings,Dubai International Cricket Stadium,Punjab Kings,field,N,Punjab Kings,Wickets,5,NA
+Sharjah,2021,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Dubai,2021,Rajasthan Royals,Royal Challengers Bangalore,Dubai International Cricket Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,NA
+Abu Dhabi,2021,Punjab Kings,Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,field,N,Mumbai Indians,Wickets,6,NA
+Sharjah,2021,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,3,NA
+Dubai,2021,Rajasthan Royals,Sunrisers Hyderabad,Dubai International Cricket Stadium,Rajasthan Royals,bat,N,Sunrisers Hyderabad,Wickets,7,NA
+Abu Dhabi,2021,Kolkata Knight Riders,Chennai Super Kings,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,bat,N,Chennai Super Kings,Wickets,2,NA
+Dubai,2021,Royal Challengers Bangalore,Mumbai Indians,Dubai International Cricket Stadium,Mumbai Indians,field,N,Royal Challengers Bangalore,Runs,54,NA
+Abu Dhabi,2021,Delhi Capitals,Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,field,N,Delhi Capitals,Runs,33,NA
+Sharjah,2021,Punjab Kings,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sunrisers Hyderabad,field,N,Punjab Kings,Runs,5,NA
+Sharjah,2021,Royal Challengers Bangalore,Chennai Super Kings,Sharjah Cricket Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Abu Dhabi,2021,Mumbai Indians,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Dubai,2021,Sunrisers Hyderabad,Delhi Capitals,Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,N,Delhi Capitals,Wickets,8,NA
+Dubai,2021,Rajasthan Royals,Punjab Kings,Dubai International Cricket Stadium,Punjab Kings,field,N,Rajasthan Royals,Runs,2,NA
+Abu Dhabi,2021,Royal Challengers Bangalore,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,bat,N,Kolkata Knight Riders,Wickets,9,NA
+Dubai,2021,Chennai Super Kings,Mumbai Indians,Dubai International Cricket Stadium,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,20,NA
+Ahmedabad,2021,Punjab Kings,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,field,N,Delhi Capitals,Wickets,7,NA
+Delhi,2021,Rajasthan Royals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,field,N,Rajasthan Royals,Runs,55,NA
+Delhi,2021,Chennai Super Kings,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Mumbai Indians,field,N,Mumbai Indians,Wickets,4,NA
+Ahmedabad,2021,Punjab Kings,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,field,N,Punjab Kings,Runs,34,NA
+Ahmedabad,2021,Kolkata Knight Riders,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,field,N,Delhi Capitals,Wickets,7,NA
+Delhi,2021,Rajasthan Royals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Mumbai Indians,field,N,Mumbai Indians,Wickets,7,NA
+Delhi,2021,Sunrisers Hyderabad,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,bat,N,Chennai Super Kings,Wickets,7,NA
+Ahmedabad,2021,Royal Challengers Bangalore,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,field,N,Royal Challengers Bangalore,Runs,1,NA
+Ahmedabad,2021,Punjab Kings,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,NA
+Chennai,2021,Delhi Capitals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,bat,Y,Delhi Capitals,SuperOver,NA,NA
+Mumbai,2021,Chennai Super Kings,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,69,NA
+Mumbai,2021,Kolkata Knight Riders,Rajasthan Royals,"Wankhede Stadium, Mumbai",Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,NA
+Chennai,2021,Mumbai Indians,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,field,N,Punjab Kings,Wickets,9,NA
+Mumbai,2021,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,10,NA
+Mumbai,2021,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,field,N,Chennai Super Kings,Runs,18,NA
+Chennai,2021,Punjab Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Punjab Kings,bat,N,Sunrisers Hyderabad,Wickets,9,NA
+Chennai,2021,Mumbai Indians,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,bat,N,Delhi Capitals,Wickets,6,NA
+Mumbai,2021,Chennai Super Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",Rajasthan Royals,field,N,Chennai Super Kings,Runs,45,NA
+Mumbai,2021,Punjab Kings,Delhi Capitals,"Wankhede Stadium, Mumbai",Delhi Capitals,field,N,Delhi Capitals,Wickets,6,NA
+Chennai,2021,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,38,NA
+Chennai,2021,Mumbai Indians,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,bat,N,Mumbai Indians,Runs,13,NA
+Mumbai,2021,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai",Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Mumbai,2021,Delhi Capitals,Rajasthan Royals,"Wankhede Stadium, Mumbai",Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,NA
+Chennai,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,field,N,Royal Challengers Bangalore,Runs,6,NA
+Chennai,2021,Mumbai Indians,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,field,N,Mumbai Indians,Runs,10,NA
+Mumbai,2021,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",Rajasthan Royals,field,N,Punjab Kings,Runs,4,NA
+Chennai,2021,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,field,N,Kolkata Knight Riders,Runs,10,NA
+Mumbai,2021,Chennai Super Kings,Delhi Capitals,"Wankhede Stadium, Mumbai",Delhi Capitals,field,N,Delhi Capitals,Wickets,7,NA
+Chennai,2021,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,2,NA
+NA,2020/21,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium,Delhi Capitals,bat,N,Mumbai Indians,Wickets,5,NA
+Abu Dhabi,2020/21,Delhi Capitals,Sunrisers Hyderabad,Sheikh Zayed Stadium,Delhi Capitals,bat,N,Delhi Capitals,Runs,17,NA
+Abu Dhabi,2020/21,Royal Challengers Bangalore,Sunrisers Hyderabad,Sheikh Zayed Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,6,NA
+NA,2020/21,Mumbai Indians,Delhi Capitals,Dubai International Cricket Stadium,Delhi Capitals,field,N,Mumbai Indians,Runs,57,NA
+NA,2020/21,Mumbai Indians,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,10,NA
+Abu Dhabi,2020/21,Royal Challengers Bangalore,Delhi Capitals,Sheikh Zayed Stadium,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,NA
+NA,2020/21,Kolkata Knight Riders,Rajasthan Royals,Dubai International Cricket Stadium,Rajasthan Royals,field,N,Kolkata Knight Riders,Runs,60,NA
+Abu Dhabi,2020/21,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,9,NA
+NA,2020/21,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,NA
+NA,2020/21,Royal Challengers Bangalore,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,NA
+Abu Dhabi,2020/21,Kings XI Punjab,Rajasthan Royals,Sheikh Zayed Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+NA,2020/21,Kolkata Knight Riders,Chennai Super Kings,Dubai International Cricket Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Abu Dhabi,2020/21,Royal Challengers Bangalore,Mumbai Indians,Sheikh Zayed Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+NA,2020/21,Sunrisers Hyderabad,Delhi Capitals,Dubai International Cricket Stadium,Delhi Capitals,field,N,Sunrisers Hyderabad,Runs,88,NA
+NA,2020/21,Kolkata Knight Riders,Kings XI Punjab,Sharjah Cricket Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,8,NA
+Abu Dhabi,2020/21,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium,Mumbai Indians,bat,N,Rajasthan Royals,Wickets,8,NA
+NA,2020/21,Royal Challengers Bangalore,Chennai Super Kings,Dubai International Cricket Stadium,Royal Challengers Bangalore,bat,N,Chennai Super Kings,Wickets,8,NA
+NA,2020/21,Kings XI Punjab,Sunrisers Hyderabad,Dubai International Cricket Stadium,Sunrisers Hyderabad,field,N,Kings XI Punjab,Runs,12,NA
+Abu Dhabi,2020/21,Kolkata Knight Riders,Delhi Capitals,Sheikh Zayed Stadium,Delhi Capitals,field,N,Kolkata Knight Riders,Runs,59,NA
+NA,2020/21,Chennai Super Kings,Mumbai Indians,Sharjah Cricket Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,10,NA
+NA,2020/21,Rajasthan Royals,Sunrisers Hyderabad,Dubai International Cricket Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,NA
+Abu Dhabi,2020/21,Kolkata Knight Riders,Royal Challengers Bangalore,Sheikh Zayed Stadium,Kolkata Knight Riders,bat,N,Royal Challengers Bangalore,Wickets,8,NA
+NA,2020/21,Delhi Capitals,Kings XI Punjab,Dubai International Cricket Stadium,Delhi Capitals,bat,N,Kings XI Punjab,Wickets,5,NA
+Abu Dhabi,2020/21,Chennai Super Kings,Rajasthan Royals,Sheikh Zayed Stadium,Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,7,NA
+Abu Dhabi,2020/21,Kolkata Knight Riders,Sunrisers Hyderabad,Sheikh Zayed Stadium,Sunrisers Hyderabad,field,Y,Kolkata Knight Riders,SuperOver,NA,NA
+NA,2020/21,Mumbai Indians,Kings XI Punjab,Dubai International Cricket Stadium,Mumbai Indians,bat,Y,Kings XI Punjab,SuperOver,NA,NA
+NA,2020/21,Rajasthan Royals,Royal Challengers Bangalore,Dubai International Cricket Stadium,Rajasthan Royals,bat,N,Royal Challengers Bangalore,Wickets,7,NA
+NA,2020/21,Chennai Super Kings,Delhi Capitals,Sharjah Cricket Stadium,Chennai Super Kings,bat,N,Delhi Capitals,Wickets,5,NA
+Abu Dhabi,2020/21,Kolkata Knight Riders,Mumbai Indians,Sheikh Zayed Stadium,Kolkata Knight Riders,bat,N,Mumbai Indians,Wickets,8,NA
+NA,2020/21,Royal Challengers Bangalore,Kings XI Punjab,Sharjah Cricket Stadium,Royal Challengers Bangalore,bat,N,Kings XI Punjab,Wickets,8,NA
+NA,2020/21,Delhi Capitals,Rajasthan Royals,Dubai International Cricket Stadium,Delhi Capitals,bat,N,Delhi Capitals,Runs,13,NA
+NA,2020/21,Chennai Super Kings,Sunrisers Hyderabad,Dubai International Cricket Stadium,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,20,NA
+NA,2020/21,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,82,NA
+NA,2020/21,Sunrisers Hyderabad,Rajasthan Royals,Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,N,Rajasthan Royals,Wickets,5,NA
+Abu Dhabi,2020/21,Delhi Capitals,Mumbai Indians,Sheikh Zayed Stadium,Delhi Capitals,bat,N,Mumbai Indians,Wickets,5,NA
+Abu Dhabi,2020/21,Kolkata Knight Riders,Kings XI Punjab,Sheikh Zayed Stadium,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,2,NA
+NA,2020/21,Royal Challengers Bangalore,Chennai Super Kings,Dubai International Cricket Stadium,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,37,NA
+NA,2020/21,Delhi Capitals,Rajasthan Royals,Sharjah Cricket Stadium,Rajasthan Royals,field,N,Delhi Capitals,Runs,46,NA
+NA,2020/21,Sunrisers Hyderabad,Kings XI Punjab,Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,69,NA
+Abu Dhabi,2020/21,Kolkata Knight Riders,Chennai Super Kings,Sheikh Zayed Stadium,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,10,NA
+Abu Dhabi,2020/21,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,57,NA
+NA,2020/21,Delhi Capitals,Royal Challengers Bangalore,Dubai International Cricket Stadium,Royal Challengers Bangalore,field,N,Delhi Capitals,Runs,59,NA
+NA,2020/21,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,Kings XI Punjab,bat,N,Chennai Super Kings,Wickets,10,NA
+NA,2020/21,Mumbai Indians,Sunrisers Hyderabad,Sharjah Cricket Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,34,NA
+Abu Dhabi,2020/21,Rajasthan Royals,Royal Challengers Bangalore,Sheikh Zayed Stadium,Rajasthan Royals,bat,N,Royal Challengers Bangalore,Wickets,8,NA
+NA,2020/21,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium,Kolkata Knight Riders,field,N,Delhi Capitals,Runs,18,NA
+NA,2020/21,Sunrisers Hyderabad,Chennai Super Kings,Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,7,NA
+Abu Dhabi,2020/21,Mumbai Indians,Kings XI Punjab,Sheikh Zayed Stadium,Kings XI Punjab,field,N,Mumbai Indians,Runs,48,NA
+NA,2020/21,Kolkata Knight Riders,Rajasthan Royals,Dubai International Cricket Stadium,Rajasthan Royals,field,N,Kolkata Knight Riders,Runs,37,NA
+Abu Dhabi,2020/21,Sunrisers Hyderabad,Delhi Capitals,Sheikh Zayed Stadium,Delhi Capitals,field,N,Sunrisers Hyderabad,Runs,15,NA
+NA,2020/21,Royal Challengers Bangalore,Mumbai Indians,Dubai International Cricket Stadium,Mumbai Indians,field,Y,Royal Challengers Bangalore,SuperOver,NA,NA
+NA,2020/21,Kings XI Punjab,Rajasthan Royals,Sharjah Cricket Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,4,NA
+Abu Dhabi,2020/21,Sunrisers Hyderabad,Kolkata Knight Riders,Sheikh Zayed Stadium,Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,7,NA
+NA,2020/21,Delhi Capitals,Chennai Super Kings,Dubai International Cricket Stadium,Chennai Super Kings,field,N,Delhi Capitals,Runs,44,NA
+NA,2020/21,Kings XI Punjab,Royal Challengers Bangalore,Dubai International Cricket Stadium,Royal Challengers Bangalore,field,N,Kings XI Punjab,Runs,97,NA
+Abu Dhabi,2020/21,Mumbai Indians,Kolkata Knight Riders,Sheikh Zayed Stadium,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,49,NA
+NA,2020/21,Rajasthan Royals,Chennai Super Kings,Sharjah Cricket Stadium,Chennai Super Kings,field,N,Rajasthan Royals,Runs,16,NA
+NA,2020/21,Royal Challengers Bangalore,Sunrisers Hyderabad,Dubai International Cricket Stadium,Sunrisers Hyderabad,field,N,Royal Challengers Bangalore,Runs,10,NA
+NA,2020/21,Delhi Capitals,Kings XI Punjab,Dubai International Cricket Stadium,Kings XI Punjab,field,Y,Delhi Capitals,SuperOver,NA,NA
+Abu Dhabi,2020/21,Mumbai Indians,Chennai Super Kings,Sheikh Zayed Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,NA
+Hyderabad,2019,Mumbai Indians,Chennai Super Kings,Rajiv Gandhi International Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,1,NA
+Visakhapatnam,2019,Delhi Capitals,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Visakhapatnam,2019,Sunrisers Hyderabad,Delhi Capitals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,field,N,Delhi Capitals,Wickets,2,NA
+Chennai,2019,Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,Chennai Super Kings,bat,N,Mumbai Indians,Wickets,6,NA
+Chandigarh,2019,Chennai Super Kings,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Mumbai,2019,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,NA
+Bengaluru,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,NA
+Delhi,2019,Rajasthan Royals,Delhi Capitals,Arun Jaitley Stadium,Rajasthan Royals,bat,N,Delhi Capitals,Wickets,5,NA
+Chandigarh,2019,Kings XI Punjab,Kolkata Knight Riders,Punjab Cricket Association IS Bindra Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Mumbai,2019,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Mumbai Indians,bat,Y,Mumbai Indians,SuperOver,NA,NA
+Chennai,2019,Chennai Super Kings,Delhi Capitals,MA Chidambaram Stadium,Delhi Capitals,field,N,Chennai Super Kings,Runs,80,NA
+Bengaluru,2019,Royal Challengers Bangalore,Rajasthan Royals,M.Chinnaswamy Stadium,Rajasthan Royals,field,NA,NA,NoResults,NA,NA
+Hyderabad,2019,Sunrisers Hyderabad,Kings XI Punjab,Rajiv Gandhi International Stadium,Kings XI Punjab,field,N,Sunrisers Hyderabad,Runs,45,NA
+Kolkata,2019,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians,field,N,Kolkata Knight Riders,Runs,34,NA
+Delhi,2019,Delhi Capitals,Royal Challengers Bangalore,Arun Jaitley Stadium,Delhi Capitals,bat,N,Delhi Capitals,Runs,16,NA
+Jaipur,2019,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Chennai,2019,Mumbai Indians,Chennai Super Kings,MA Chidambaram Stadium,Chennai Super Kings,field,N,Mumbai Indians,Runs,46,NA
+Kolkata,2019,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,NA
+Bengaluru,2019,Royal Challengers Bangalore,Kings XI Punjab,M.Chinnaswamy Stadium,Kings XI Punjab,field,N,Royal Challengers Bangalore,Runs,17,NA
+Chennai,2019,Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Jaipur,2019,Rajasthan Royals,Delhi Capitals,Sawai Mansingh Stadium,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,NA
+Hyderabad,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,9,NA
+Bengaluru,2019,Royal Challengers Bangalore,Chennai Super Kings,M.Chinnaswamy Stadium,Chennai Super Kings,field,N,Royal Challengers Bangalore,Runs,1,NA
+Delhi,2019,Kings XI Punjab,Delhi Capitals,Arun Jaitley Stadium,Delhi Capitals,field,N,Delhi Capitals,Wickets,5,NA
+Jaipur,2019,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,5,NA
+Kolkata,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,Kolkata Knight Riders,field,N,Royal Challengers Bangalore,Runs,10,NA
+Delhi,2019,Mumbai Indians,Delhi Capitals,Arun Jaitley Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,40,NA
+Hyderabad,2019,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,bat,N,Sunrisers Hyderabad,Wickets,6,NA
+Chandigarh,2019,Kings XI Punjab,Rajasthan Royals,Punjab Cricket Association IS Bindra Stadium,Rajasthan Royals,field,N,Kings XI Punjab,Runs,12,NA
+Mumbai,2019,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Kolkata,2019,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,NA
+Hyderabad,2019,Delhi Capitals,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,N,Delhi Capitals,Runs,39,NA
+Mumbai,2019,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,4,NA
+Chandigarh,2019,Kings XI Punjab,Royal Challengers Bangalore,Punjab Cricket Association IS Bindra Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,8,NA
+Kolkata,2019,Kolkata Knight Riders,Delhi Capitals,Eden Gardens,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,NA
+Jaipur,2019,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,NA
+Mumbai,2019,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,3,NA
+Chennai,2019,Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,7,NA
+Chandigarh,2019,Sunrisers Hyderabad,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Jaipur,2019,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,NA
+Bengaluru,2019,Royal Challengers Bangalore,Delhi Capitals,M.Chinnaswamy Stadium,Delhi Capitals,field,N,Delhi Capitals,Wickets,4,NA
+Hyderabad,2019,Mumbai Indians,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,N,Mumbai Indians,Runs,40,NA
+Chennai,2019,Chennai Super Kings,Kings XI Punjab,MA Chidambaram Stadium,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,22,NA
+Bengaluru,2019,Royal Challengers Bangalore,Kolkata Knight Riders,M.Chinnaswamy Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,NA
+Delhi,2019,Delhi Capitals,Sunrisers Hyderabad,Arun Jaitley Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,NA
+Mumbai,2019,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings,field,N,Mumbai Indians,Runs,37,NA
+Jaipur,2019,Royal Challengers Bangalore,Rajasthan Royals,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Chandigarh,2019,Kings XI Punjab,Delhi Capitals,Punjab Cricket Association IS Bindra Stadium,Delhi Capitals,field,N,Kings XI Punjab,Runs,14,NA
+Hyderabad,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,118,NA
+Chennai,2019,Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadium,Rajasthan Royals,field,N,Chennai Super Kings,Runs,8,NA
+Delhi,2019,Kolkata Knight Riders,Delhi Capitals,Arun Jaitley Stadium,Delhi Capitals,field,Y,Delhi Capitals,SuperOver,NA,NA
+Chandigarh,2019,Mumbai Indians,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,8,NA
+Hyderabad,2019,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Rajasthan Royals,bat,N,Sunrisers Hyderabad,Wickets,5,NA
+Bengaluru,2019,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,6,NA
+Kolkata,2019,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab,field,N,Kolkata Knight Riders,Runs,28,NA
+Delhi,2019,Delhi Capitals,Chennai Super Kings,Arun Jaitley Stadium,Delhi Capitals,bat,N,Chennai Super Kings,Wickets,6,NA
+Jaipur,2019,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Kings XI Punjab,Runs,14,NA
+Mumbai,2019,Delhi Capitals,Mumbai Indians,Wankhede Stadium,Mumbai Indians,field,N,Delhi Capitals,Runs,37,NA
+Kolkata,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Chennai,2019,Royal Challengers Bangalore,Chennai Super Kings,MA Chidambaram Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,7,NA
+Mumbai,2018,Sunrisers Hyderabad,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,8,NA
+Kolkata,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,Kolkata Knight Riders,field,N,Sunrisers Hyderabad,Runs,14,NA
+Kolkata,2018,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals,field,N,Kolkata Knight Riders,Runs,25,NA
+Mumbai,2018,Sunrisers Hyderabad,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,2,NA
+Pune,2018,Kings XI Punjab,Chennai Super Kings,Maharashtra Cricket Association Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,NA
+Delhi,2018,Delhi Daredevils,Mumbai Indians,Arun Jaitley Stadium,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,11,NA
+Hyderabad,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,5,NA
+Jaipur,2018,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,30,NA
+Delhi,2018,Delhi Daredevils,Chennai Super Kings,Arun Jaitley Stadium,Chennai Super Kings,field,N,Delhi Daredevils,Runs,34,NA
+Bengaluru,2018,Royal Challengers Bangalore,Sunrisers Hyderabad,M.Chinnaswamy Stadium,Sunrisers Hyderabad,field,N,Royal Challengers Bangalore,Runs,14,NA
+Mumbai,2018,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Kings XI Punjab,field,N,Mumbai Indians,Runs,3,NA
+Kolkata,2018,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Indore,2018,Kings XI Punjab,Royal Challengers Bangalore,Holkar Cricket Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,10,NA
+Mumbai,2018,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Pune,2018,Sunrisers Hyderabad,Chennai Super Kings,Maharashtra Cricket Association Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,8,NA
+Delhi,2018,Delhi Daredevils,Royal Challengers Bangalore,Arun Jaitley Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,5,NA
+Indore,2018,Kolkata Knight Riders,Kings XI Punjab,Holkar Cricket Stadium,Kings XI Punjab,field,N,Kolkata Knight Riders,Runs,31,NA
+Jaipur,2018,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium,Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,4,NA
+Delhi,2018,Delhi Daredevils,Sunrisers Hyderabad,Arun Jaitley Stadium,Delhi Daredevils,bat,N,Sunrisers Hyderabad,Wickets,9,NA
+Kolkata,2018,Mumbai Indians,Kolkata Knight Riders,Eden Gardens,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,102,NA
+Jaipur,2018,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,15,NA
+Hyderabad,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,5,NA
+Indore,2018,Rajasthan Royals,Kings XI Punjab,Holkar Cricket Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Mumbai,2018,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,13,NA
+Hyderabad,2018,Delhi Daredevils,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Delhi Daredevils,bat,N,Sunrisers Hyderabad,Wickets,7,NA
+Pune,2018,Royal Challengers Bangalore,Chennai Super Kings,Maharashtra Cricket Association Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Indore,2018,Kings XI Punjab,Mumbai Indians,Holkar Cricket Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,NA
+Kolkata,2018,Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Delhi,2018,Delhi Daredevils,Rajasthan Royals,Arun Jaitley Stadium,Rajasthan Royals,field,N,Delhi Daredevils,Runs,4,D/L
+Bengaluru,2018,Royal Challengers Bangalore,Mumbai Indians,M.Chinnaswamy Stadium,Mumbai Indians,field,N,Royal Challengers Bangalore,Runs,14,NA
+Pune,2018,Chennai Super Kings,Delhi Daredevils,Maharashtra Cricket Association Stadium,Delhi Daredevils,field,N,Chennai Super Kings,Runs,13,NA
+Jaipur,2018,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadium,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,11,NA
+Bengaluru,2018,Royal Challengers Bangalore,Kolkata Knight Riders,M.Chinnaswamy Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Pune,2018,Chennai Super Kings,Mumbai Indians,Maharashtra Cricket Association Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,NA
+Delhi,2018,Delhi Daredevils,Kolkata Knight Riders,Arun Jaitley Stadium,Kolkata Knight Riders,field,N,Delhi Daredevils,Runs,55,NA
+Hyderabad,2018,Sunrisers Hyderabad,Kings XI Punjab,Rajiv Gandhi International Stadium,Kings XI Punjab,field,N,Sunrisers Hyderabad,Runs,13,NA
+Bengaluru,2018,Royal Challengers Bangalore,Chennai Super Kings,M.Chinnaswamy Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,NA
+Mumbai,2018,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,Mumbai Indians,field,N,Sunrisers Hyderabad,Runs,31,NA
+Delhi,2018,Kings XI Punjab,Delhi Daredevils,Arun Jaitley Stadium,Delhi Daredevils,field,N,Kings XI Punjab,Runs,4,NA
+Jaipur,2018,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium,Mumbai Indians,bat,N,Rajasthan Royals,Wickets,3,NA
+Hyderabad,2018,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,N,Chennai Super Kings,Runs,4,NA
+Bengaluru,2018,Delhi Daredevils,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,6,NA
+Kolkata,2018,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,9,D/L
+Pune,2018,Chennai Super Kings,Rajasthan Royals,Maharashtra Cricket Association Stadium,Rajasthan Royals,field,N,Chennai Super Kings,Runs,64,NA
+Chandigarh,2018,Kings XI Punjab,Sunrisers Hyderabad,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,bat,N,Kings XI Punjab,Runs,15,NA
+Jaipur,2018,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Mumbai,2018,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,46,NA
+Kolkata,2018,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Delhi Daredevils,field,N,Kolkata Knight Riders,Runs,71,NA
+Chandigarh,2018,Kings XI Punjab,Chennai Super Kings,Punjab Cricket Association IS Bindra Stadium,Chennai Super Kings,field,N,Kings XI Punjab,Runs,4,NA
+Bengaluru,2018,Rajasthan Royals,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Rajasthan Royals,Runs,19,NA
+Kolkata,2018,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,NA
+Mumbai,2018,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,7,NA
+Bengaluru,2018,Kings XI Punjab,Royal Challengers Bangalore,M.Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,NA
+Hyderabad,2018,Mumbai Indians,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,1,NA
+Jaipur,2018,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Delhi Daredevils,field,N,Rajasthan Royals,Runs,10,D/L
+Chennai,2018,Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,NA
+Hyderabad,2018,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,9,NA
+Chandigarh,2018,Delhi Daredevils,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Kolkata,2018,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,4,NA
+Mumbai,2018,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,1,NA
+Hyderabad,2017,Mumbai Indians,Rising Pune Supergiant,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,bat,N,Mumbai Indians,Runs,1,NA
+Bangalore,2017,Mumbai Indians,Kolkata Knight Riders,M Chinnaswamy Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,NA
+Bangalore,2017,Sunrisers Hyderabad,Kolkata Knight Riders,M Chinnaswamy Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,D/L
+Mumbai,2017,Mumbai Indians,Rising Pune Supergiant,Wankhede Stadium,Mumbai Indians,field,N,Rising Pune Supergiant,Runs,20,NA
+Delhi,2017,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,10,NA
+Pune,2017,Rising Pune Supergiant,Kings XI Punjab,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,9,NA
+Kolkata,2017,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,9,NA
+Kanpur,2017,Gujarat Lions,Sunrisers Hyderabad,Green Park,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,NA
+Delhi,2017,Delhi Daredevils,Rising Pune Supergiant,Feroz Shah Kotla,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,7,NA
+Mumbai,2017,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians,field,N,Kings XI Punjab,Runs,7,NA
+Kanpur,2017,Gujarat Lions,Delhi Daredevils,Green Park,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,2,NA
+Chandigarh,2017,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders,field,N,Kings XI Punjab,Runs,14,NA
+Hyderabad,2017,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,bat,N,Sunrisers Hyderabad,Wickets,7,NA
+Bangalore,2017,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Chandigarh,2017,Kings XI Punjab,Gujarat Lions,"Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions,field,N,Gujarat Lions,Wickets,6,NA
+Delhi,2017,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Delhi Daredevils,field,N,Mumbai Indians,Runs,146,NA
+Hyderabad,2017,Sunrisers Hyderabad,Rising Pune Supergiant,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,N,Rising Pune Supergiant,Runs,12,NA
+Bangalore,2017,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Kings XI Punjab,Runs,19,NA
+Delhi,2017,Delhi Daredevils,Gujarat Lions,Feroz Shah Kotla,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,7,NA
+Kolkata,2017,Kolkata Knight Riders,Rising Pune Supergiant,Eden Gardens,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,4,NA
+Delhi,2017,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,6,NA
+Pune,2017,Rising Pune Supergiant,Gujarat Lions,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,5,NA
+Mumbai,2017,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore,bat,N,Mumbai Indians,Wickets,5,NA
+Hyderabad,2017,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,field,N,Sunrisers Hyderabad,Runs,48,NA
+Chandigarh,2017,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,10,NA
+Rajkot,2017,Gujarat Lions,Mumbai Indians,Saurashtra Cricket Association Stadium,Gujarat Lions,bat,Y,Mumbai Indians,SuperOver,NA,NA
+Pune,2017,Rising Pune Supergiant,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,field,N,Rising Pune Supergiant,Runs,61,NA
+Kolkata,2017,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Chandigarh,2017,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,field,N,Sunrisers Hyderabad,Runs,26,NA
+Bangalore,2017,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadium,Gujarat Lions,field,N,Gujarat Lions,Wickets,7,NA
+Pune,2017,Rising Pune Supergiant,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Mumbai,2017,Mumbai Indians,Rising Pune Supergiant,Wankhede Stadium,Mumbai Indians,field,N,Rising Pune Supergiant,Runs,3,NA
+Kolkata,2017,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,82,NA
+Rajkot,2017,Gujarat Lions,Kings XI Punjab,Saurashtra Cricket Association Stadium,Gujarat Lions,field,N,Kings XI Punjab,Runs,26,NA
+Pune,2017,Rising Pune Supergiant,Sunrisers Hyderabad,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,6,NA
+Mumbai,2017,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils,field,N,Mumbai Indians,Runs,14,NA
+Kolkata,2017,Kolkata Knight Riders,Gujarat Lions,Eden Gardens,Gujarat Lions,field,N,Gujarat Lions,Wickets,4,NA
+Indore,2017,Kings XI Punjab,Mumbai Indians,Holkar Cricket Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,NA
+Hyderabad,2017,Sunrisers Hyderabad,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,15,NA
+Rajkot,2017,Gujarat Lions,Royal Challengers Bangalore,Saurashtra Cricket Association Stadium,Gujarat Lions,field,N,Royal Challengers Bangalore,Runs,21,NA
+Delhi,2017,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils,bat,N,Kolkata Knight Riders,Wickets,4,NA
+Hyderabad,2017,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,field,N,Sunrisers Hyderabad,Runs,5,NA
+Bangalore,2017,Royal Challengers Bangalore,Rising Pune Supergiant,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Rising Pune Supergiant,Runs,27,NA
+Mumbai,2017,Mumbai Indians,Gujarat Lions,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,NA
+Delhi,2017,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,51,NA
+Kolkata,2017,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Sunrisers Hyderabad,field,N,Kolkata Knight Riders,Runs,17,NA
+Rajkot,2017,Gujarat Lions,Rising Pune Supergiant,Saurashtra Cricket Association Stadium,Gujarat Lions,field,N,Gujarat Lions,Wickets,7,NA
+Bangalore,2017,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,NA
+Kolkata,2017,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,NA
+Mumbai,2017,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,NA
+Pune,2017,Rising Pune Supergiant,Delhi Daredevils,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,N,Delhi Daredevils,Runs,97,NA
+Indore,2017,Kings XI Punjab,Royal Challengers Bangalore,Holkar Cricket Stadium,Royal Challengers Bangalore,bat,N,Kings XI Punjab,Wickets,8,NA
+Mumbai,2017,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,NA
+Hyderabad,2017,Sunrisers Hyderabad,Gujarat Lions,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,9,NA
+Bengaluru,2017,Royal Challengers Bangalore,Delhi Daredevils,M.Chinnaswamy Stadium,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,15,NA
+Indore,2017,Kings XI Punjab,Rising Pune Supergiant,Holkar Cricket Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Rajkot,2017,Gujarat Lions,Kolkata Knight Riders,Saurashtra Cricket Association Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,10,NA
+Pune,2017,Rising Pune Supergiant,Mumbai Indians,Maharashtra Cricket Association Stadium,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,7,NA
+Hyderabad,2017,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,35,NA
+Bangalore,2016,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,8,NA
+Delhi,2016,Gujarat Lions,Sunrisers Hyderabad,Feroz Shah Kotla,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,4,NA
+Delhi,2016,Sunrisers Hyderabad,Kolkata Knight Riders,Feroz Shah Kotla,Kolkata Knight Riders,field,N,Sunrisers Hyderabad,Runs,22,NA
+Bangalore,2016,Gujarat Lions,Royal Challengers Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,NA
+Raipur,2016,Delhi Daredevils,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,6,NA
+Kolkata,2016,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Sunrisers Hyderabad,field,N,Kolkata Knight Riders,Runs,22,NA
+Kanpur,2016,Gujarat Lions,Mumbai Indians,Green Park,Gujarat Lions,field,N,Gujarat Lions,Wickets,6,NA
+Visakhapatnam,2016,Rising Pune Supergiants,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kings XI Punjab,bat,N,Rising Pune Supergiants,Wickets,4,NA
+Raipur,2016,Delhi Daredevils,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,6,NA
+Kanpur,2016,Gujarat Lions,Kolkata Knight Riders,Green Park,Gujarat Lions,field,N,Gujarat Lions,Wickets,6,NA
+Bangalore,2016,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab,field,N,Royal Challengers Bangalore,Runs,82,D/L
+Visakhapatnam,2016,Rising Pune Supergiants,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rising Pune Supergiants,field,N,Rising Pune Supergiants,Runs,19,D/L
+Kolkata,2016,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,NA
+Chandigarh,2016,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,bat,N,Sunrisers Hyderabad,Wickets,7,NA
+Visakhapatnam,2016,Mumbai Indians,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Daredevils,field,N,Mumbai Indians,Runs,80,NA
+Bangalore,2016,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadium,Gujarat Lions,field,N,Royal Challengers Bangalore,Runs,144,NA
+Kolkata,2016,Kolkata Knight Riders,Rising Pune Supergiants,Eden Gardens,Rising Pune Supergiants,bat,N,Kolkata Knight Riders,Wickets,8,D/L
+Visakhapatnam,2016,Mumbai Indians,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,bat,N,Kings XI Punjab,Wickets,7,NA
+Hyderabad,2016,Sunrisers Hyderabad,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils,field,N,Delhi Daredevils,Wickets,7,NA
+Bangalore,2016,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,NA
+Visakhapatnam,2016,Rising Pune Supergiants,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,4,NA
+Chandigarh,2016,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,field,N,Royal Challengers Bangalore,Runs,1,NA
+Kolkata,2016,Kolkata Knight Riders,Gujarat Lions,Eden Gardens,Gujarat Lions,field,N,Gujarat Lions,Wickets,5,NA
+Visakhapatnam,2016,Mumbai Indians,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,field,N,Sunrisers Hyderabad,Runs,85,NA
+Chandigarh,2016,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Mohali",Delhi Daredevils,field,N,Kings XI Punjab,Runs,9,NA
+Bangalore,2016,Royal Challengers Bangalore,Rising Pune Supergiants,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,NA
+Hyderabad,2016,Sunrisers Hyderabad,Gujarat Lions,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,NA
+Delhi,2016,Delhi Daredevils,Rising Pune Supergiants,Feroz Shah Kotla,Rising Pune Supergiants,field,N,Rising Pune Supergiants,Wickets,7,NA
+Kolkata,2016,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab,field,N,Kolkata Knight Riders,Runs,7,NA
+Rajkot,2016,Gujarat Lions,Delhi Daredevils,Saurashtra Cricket Association Stadium,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,8,NA
+Bangalore,2016,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,NA
+Rajkot,2016,Gujarat Lions,Kings XI Punjab,Saurashtra Cricket Association Stadium,Gujarat Lions,field,N,Kings XI Punjab,Runs,23,NA
+Pune,2016,Rising Pune Supergiants,Mumbai Indians,Maharashtra Cricket Association Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,NA
+Delhi,2016,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Kolkata Knight Riders,field,N,Delhi Daredevils,Runs,27,NA
+Hyderabad,2016,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,15,NA
+Pune,2016,Rising Pune Supergiants,Gujarat Lions,Maharashtra Cricket Association Stadium,Gujarat Lions,field,N,Gujarat Lions,Wickets,3,NA
+Mumbai,2016,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,NA
+Delhi,2016,Delhi Daredevils,Gujarat Lions,Feroz Shah Kotla,Delhi Daredevils,field,N,Gujarat Lions,Runs,1,NA
+Hyderabad,2016,Sunrisers Hyderabad,Rising Pune Supergiants,"Rajiv Gandhi International Stadium, Uppal",Rising Pune Supergiants,field,N,Rising Pune Supergiants,Runs,34,D/L
+Chandigarh,2016,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,field,N,Mumbai Indians,Runs,25,NA
+Pune,2016,Rising Pune Supergiants,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,2,NA
+Rajkot,2016,Gujarat Lions,Royal Challengers Bangalore,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,bat,N,Gujarat Lions,Wickets,6,NA
+Hyderabad,2016,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,NA
+Delhi,2016,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Mumbai Indians,field,N,Delhi Daredevils,Runs,10,NA
+Pune,2016,Rising Pune Supergiants,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,field,N,Royal Challengers Bangalore,Runs,13,NA
+Rajkot,2016,Gujarat Lions,Sunrisers Hyderabad,Saurashtra Cricket Association Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,10,NA
+Mumbai,2016,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,NA
+Chandigarh,2016,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Hyderabad,2016,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,7,NA
+Bangalore,2016,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,7,NA
+Chandigarh,2016,Kings XI Punjab,Rising Pune Supergiants,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rising Pune Supergiants,bat,N,Kings XI Punjab,Wickets,6,NA
+Mumbai,2016,Mumbai Indians,Gujarat Lions,Wankhede Stadium,Gujarat Lions,field,N,Gujarat Lions,Wickets,3,NA
+Hyderabad,2016,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,8,NA
+Delhi,2016,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,8,NA
+Rajkot,2016,Gujarat Lions,Rising Pune Supergiants,Saurashtra Cricket Association Stadium,Rising Pune Supergiants,bat,N,Gujarat Lions,Wickets,7,NA
+Kolkata,2016,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,NA
+Bangalore,2016,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad,field,N,Royal Challengers Bangalore,Runs,45,NA
+Chandigarh,2016,Kings XI Punjab,Gujarat Lions,"Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions,field,N,Gujarat Lions,Wickets,5,NA
+Kolkata,2016,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,9,NA
+Mumbai,2016,Mumbai Indians,Rising Pune Supergiants,Wankhede Stadium,Mumbai Indians,bat,N,Rising Pune Supergiants,Wickets,9,NA
+Kolkata,2015,Mumbai Indians,Chennai Super Kings,Eden Gardens,Chennai Super Kings,field,N,Mumbai Indians,Runs,41,NA
+Ranchi,2015,Chennai Super Kings,Royal Challengers Bangalore,JSCA International Stadium Complex,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,3,NA
+Pune,2015,Royal Challengers Bangalore,Rajasthan Royals,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,71,NA
+Mumbai,2015,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,25,NA
+Bangalore,2015,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,NA,NA,NoResults,NA,NA
+Hyderabad,2015,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,N,Mumbai Indians,Wickets,9,NA
+Mumbai,2015,Rajasthan Royals,Kolkata Knight Riders,Brabourne Stadium,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,9,NA
+Chandigarh,2015,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,N,Chennai Super Kings,Wickets,7,NA
+Hyderabad,2015,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,N,Royal Challengers Bangalore,Wickets,6,D/L
+Mumbai,2015,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,5,NA
+Chandigarh,2015,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,field,N,Kings XI Punjab,Runs,22,NA
+Raipur,2015,Delhi Daredevils,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,Chennai Super Kings,bat,N,Delhi Daredevils,Wickets,6,NA
+Hyderabad,2015,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,5,NA
+Chennai,2015,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,12,NA
+Mumbai,2015,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,39,NA
+Raipur,2015,Delhi Daredevils,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,6,NA
+Kolkata,2015,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab,bat,N,Kolkata Knight Riders,Wickets,1,NA
+Chennai,2015,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Mumbai Indians,Wickets,6,NA
+Mumbai,2015,Rajasthan Royals,Sunrisers Hyderabad,Brabourne Stadium,Rajasthan Royals,field,N,Sunrisers Hyderabad,Runs,7,NA
+Kolkata,2015,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,13,NA
+Bangalore,2015,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab,field,N,Royal Challengers Bangalore,Runs,138,NA
+Mumbai,2015,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils,bat,N,Mumbai Indians,Wickets,5,NA
+Kolkata,2015,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Sunrisers Hyderabad,field,N,Kolkata Knight Riders,Runs,35,NA
+Chennai,2015,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,24,NA
+Chandigarh,2015,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,bat,N,Mumbai Indians,Runs,23,NA
+Mumbai,2015,Rajasthan Royals,Delhi Daredevils,Brabourne Stadium,Delhi Daredevils,field,N,Rajasthan Royals,Runs,14,NA
+Bangalore,2015,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,NA
+Hyderabad,2015,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Chennai Super Kings,field,N,Sunrisers Hyderabad,Runs,22,NA
+Mumbai,2015,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals,field,N,Mumbai Indians,Runs,8,NA
+Delhi,2015,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,9,NA
+Kolkata,2015,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Bangalore,2015,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals,field,NA,NA,NoResults,NA,NA
+Chennai,2015,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,field,N,Chennai Super Kings,Runs,2,NA
+Chandigarh,2015,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Sunrisers Hyderabad,Runs,20,NA
+Delhi,2015,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,10,NA
+Chennai,2015,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,97,NA
+Mumbai,2015,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,20,NA
+Ahmedabad,2015,Rajasthan Royals,Royal Challengers Bangalore,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,NA
+Delhi,2015,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Mumbai Indians,field,N,Delhi Daredevils,Runs,37,NA
+Visakhapatnam,2015,Sunrisers Hyderabad,Kolkata Knight Riders,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kolkata Knight Riders,field,N,Sunrisers Hyderabad,Runs,16,D/L
+Bangalore,2015,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Chennai Super Kings,Runs,27,NA
+Ahmedabad,2015,Rajasthan Royals,Kings XI Punjab,"Sardar Patel Stadium, Motera",Kings XI Punjab,field,Y,Kings XI Punjab,SuperOver,NA,NA
+Delhi,2015,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Ahmedabad,2015,Rajasthan Royals,Chennai Super Kings,"Sardar Patel Stadium, Motera",Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,8,NA
+Bangalore,2015,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,18,NA
+Visakhapatnam,2015,Sunrisers Hyderabad,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,4,NA
+Pune,2015,Kings XI Punjab,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,4,NA
+Mumbai,2015,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai Indians,bat,N,Chennai Super Kings,Wickets,6,NA
+Visakhapatnam,2015,Sunrisers Hyderabad,Rajasthan Royals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,NA
+Pune,2015,Kings XI Punjab,Delhi Daredevils,Maharashtra Cricket Association Stadium,Kings XI Punjab,bat,N,Delhi Daredevils,Wickets,5,NA
+Ahmedabad,2015,Rajasthan Royals,Mumbai Indians,"Sardar Patel Stadium, Motera",Mumbai Indians,bat,N,Rajasthan Royals,Wickets,7,NA
+Bangalore,2015,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,NA
+Mumbai,2015,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians,field,N,Kings XI Punjab,Runs,18,NA
+Delhi,2015,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,NA
+Kolkata,2015,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,3,NA
+Chennai,2015,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,45,NA
+Pune,2015,Kings XI Punjab,Rajasthan Royals,Maharashtra Cricket Association Stadium,Kings XI Punjab,field,N,Rajasthan Royals,Runs,26,NA
+Chennai,2015,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Delhi Daredevils,field,N,Chennai Super Kings,Runs,1,NA
+Kolkata,2015,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Bangalore,2014,Kolkata Knight Riders,Kings XI Punjab,M Chinnaswamy Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,3,NA
+Mumbai,2014,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,Chennai Super Kings,field,N,Kings XI Punjab,Runs,24,NA
+Mumbai,2014,Chennai Super Kings,Mumbai Indians,Brabourne Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,7,NA
+Kolkata,2014,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,Kings XI Punjab,field,N,Kolkata Knight Riders,Runs,28,NA
+Mumbai,2014,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Chandigarh,2014,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,7,NA
+Bangalore,2014,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,8,NA
+Kolkata,2014,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,4,NA
+Mumbai,2014,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils,field,N,Mumbai Indians,Runs,15,NA
+Chandigarh,2014,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,field,N,Kings XI Punjab,Runs,16,NA
+Kolkata,2014,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,30,NA
+Ranchi,2014,Chennai Super Kings,Sunrisers Hyderabad,JSCA International Stadium Complex,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,6,NA
+Chandigarh,2014,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,field,N,Mumbai Indians,Wickets,7,NA
+Kolkata,2014,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,NA
+Hyderabad,2014,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,bat,N,Sunrisers Hyderabad,Wickets,7,NA
+Delhi,2014,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,4,NA
+Ahmedabad,2014,Rajasthan Royals,Mumbai Indians,"Sardar Patel Stadium, Motera",Mumbai Indians,bat,N,Mumbai Indians,Runs,25,NA
+Ranchi,2014,Chennai Super Kings,Royal Challengers Bangalore,JSCA International Stadium Complex,Chennai Super Kings,bat,N,Royal Challengers Bangalore,Wickets,5,NA
+Hyderabad,2014,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,7,NA
+Ahmedabad,2014,Rajasthan Royals,Delhi Daredevils,"Sardar Patel Stadium, Motera",Delhi Daredevils,field,N,Rajasthan Royals,Runs,62,NA
+Cuttack,2014,Kolkata Knight Riders,Mumbai Indians,Barabati Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Hyderabad,2014,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Bangalore,2014,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Delhi Daredevils,field,N,Royal Challengers Bangalore,Runs,16,NA
+Ranchi,2014,Chennai Super Kings,Rajasthan Royals,JSCA International Stadium Complex,Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,5,NA
+Hyderabad,2014,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,N,Mumbai Indians,Wickets,7,NA
+Cuttack,2014,Kings XI Punjab,Kolkata Knight Riders,Barabati Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,9,NA
+Bangalore,2014,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Royal Challengers Bangalore,bat,N,Rajasthan Royals,Wickets,5,NA
+Mumbai,2014,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,NA
+Delhi,2014,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,D/L
+Bangalore,2014,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Kings XI Punjab,Runs,32,NA
+Ahmedabad,2014,Rajasthan Royals,Sunrisers Hyderabad,"Sardar Patel Stadium, Motera",Rajasthan Royals,field,N,Sunrisers Hyderabad,Runs,32,NA
+Delhi,2014,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils,bat,N,Kolkata Knight Riders,Wickets,8,NA
+Cuttack,2014,Kings XI Punjab,Chennai Super Kings,Barabati Stadium,Chennai Super Kings,field,N,Kings XI Punjab,Runs,44,NA
+Mumbai,2014,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,19,NA
+Delhi,2014,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,8,NA
+Ahmedabad,2014,Rajasthan Royals,Kolkata Knight Riders,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,field,N,Rajasthan Royals,Runs,10,NA
+Bangalore,2014,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,NA
+Delhi,2014,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Mumbai,2014,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Kings XI Punjab,bat,N,Mumbai Indians,Wickets,5,NA
+Ranchi,2014,Chennai Super Kings,Kolkata Knight Riders,JSCA International Stadium Complex,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,34,NA
+NA,2014,Mumbai Indians,Sunrisers Hyderabad,Dubai International Cricket Stadium,Mumbai Indians,field,N,Sunrisers Hyderabad,Runs,15,NA
+Abu Dhabi,2014,Kolkata Knight Riders,Rajasthan Royals,Sheikh Zayed Stadium,Rajasthan Royals,bat,Y,Rajasthan Royals,SuperOver,NA,NA
+NA,2014,Kings XI Punjab,Royal Challengers Bangalore,Dubai International Cricket Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,5,NA
+NA,2014,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stadium,Sunrisers Hyderabad,bat,N,Chennai Super Kings,Wickets,5,NA
+NA,2014,Delhi Daredevils,Mumbai Indians,Sharjah Cricket Stadium,Mumbai Indians,bat,N,Delhi Daredevils,Wickets,6,NA
+Abu Dhabi,2014,Kolkata Knight Riders,Kings XI Punjab,Sheikh Zayed Stadium,Kolkata Knight Riders,field,N,Kings XI Punjab,Runs,23,NA
+Abu Dhabi,2014,Rajasthan Royals,Royal Challengers Bangalore,Sheikh Zayed Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,NA
+NA,2014,Sunrisers Hyderabad,Delhi Daredevils,Dubai International Cricket Stadium,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,4,NA
+NA,2014,Chennai Super Kings,Mumbai Indians,Dubai International Cricket Stadium,Mumbai Indians,bat,N,Chennai Super Kings,Wickets,7,NA
+NA,2014,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,2,NA
+NA,2014,Rajasthan Royals,Chennai Super Kings,Dubai International Cricket Stadium,Rajasthan Royals,field,N,Chennai Super Kings,Runs,7,NA
+NA,2014,Kings XI Punjab,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sunrisers Hyderabad,field,N,Kings XI Punjab,Runs,72,NA
+Abu Dhabi,2014,Chennai Super Kings,Delhi Daredevils,Sheikh Zayed Stadium,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,93,NA
+NA,2014,Rajasthan Royals,Kings XI Punjab,Sharjah Cricket Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,7,NA
+NA,2014,Kolkata Knight Riders,Delhi Daredevils,Dubai International Cricket Stadium,Kolkata Knight Riders,bat,N,Delhi Daredevils,Wickets,4,NA
+NA,2014,Royal Challengers Bangalore,Mumbai Indians,Dubai International Cricket Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,NA
+Abu Dhabi,2014,Sunrisers Hyderabad,Rajasthan Royals,Sheikh Zayed Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,4,NA
+Abu Dhabi,2014,Chennai Super Kings,Kings XI Punjab,Sheikh Zayed Stadium,Chennai Super Kings,bat,N,Kings XI Punjab,Wickets,6,NA
+NA,2014,Delhi Daredevils,Royal Challengers Bangalore,Sharjah Cricket Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,8,NA
+Abu Dhabi,2014,Mumbai Indians,Kolkata Knight Riders,Sheikh Zayed Stadium,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,41,NA
+Kolkata,2013,Chennai Super Kings,Mumbai Indians,Eden Gardens,Mumbai Indians,bat,N,Mumbai Indians,Runs,23,NA
+Kolkata,2013,Mumbai Indians,Rajasthan Royals,Eden Gardens,Rajasthan Royals,bat,N,Mumbai Indians,Wickets,4,NA
+Delhi,2013,Rajasthan Royals,Sunrisers Hyderabad,Feroz Shah Kotla,Sunrisers Hyderabad,bat,N,Rajasthan Royals,Wickets,4,NA
+Delhi,2013,Chennai Super Kings,Mumbai Indians,Feroz Shah Kotla,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,48,NA
+Hyderabad,2013,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,bat,N,Sunrisers Hyderabad,Wickets,5,NA
+Pune,2013,Pune Warriors,Delhi Daredevils,Subrata Roy Sahara Stadium,Pune Warriors,bat,N,Pune Warriors,Runs,38,NA
+Bangalore,2013,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings,field,N,Royal Challengers Bangalore,Runs,24,NA
+Dharamsala,2013,Kings XI Punjab,Mumbai Indians,Himachal Pradesh Cricket Association Stadium,Mumbai Indians,field,N,Kings XI Punjab,Runs,50,NA
+Hyderabad,2013,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,23,NA
+Dharamsala,2013,Kings XI Punjab,Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Delhi Daredevils,field,N,Kings XI Punjab,Runs,7,NA
+Mumbai,2013,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals,field,N,Mumbai Indians,Runs,14,NA
+Ranchi,2013,Kolkata Knight Riders,Pune Warriors,JSCA International Stadium Complex,Kolkata Knight Riders,field,N,Pune Warriors,Runs,7,NA
+Chennai,2013,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,33,NA
+Bangalore,2013,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,7,NA
+Mumbai,2013,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,Sunrisers Hyderabad,bat,N,Mumbai Indians,Wickets,7,NA
+Jaipur,2013,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,5,NA
+Ranchi,2013,Kolkata Knight Riders,Royal Challengers Bangalore,JSCA International Stadium Complex,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,NA
+Chandigarh,2013,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Sunrisers Hyderabad,Runs,30,NA
+Pune,2013,Pune Warriors,Mumbai Indians,Subrata Roy Sahara Stadium,Pune Warriors,bat,N,Mumbai Indians,Wickets,5,NA
+Delhi,2013,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi Daredevils,field,N,Royal Challengers Bangalore,Runs,4,NA
+Pune,2013,Pune Warriors,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,46,NA
+Chandigarh,2013,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,field,N,Rajasthan Royals,Wickets,8,NA
+Hyderabad,2013,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,field,N,Chennai Super Kings,Runs,77,NA
+Jaipur,2013,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Delhi Daredevils,bat,N,Rajasthan Royals,Wickets,9,NA
+Mumbai,2013,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,65,NA
+Chandigarh,2013,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Jaipur,2013,Rajasthan Royals,Pune Warriors,Sawai Mansingh Stadium,Pune Warriors,bat,N,Rajasthan Royals,Wickets,5,NA
+Mumbai,2013,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,60,NA
+Hyderabad,2013,Sunrisers Hyderabad,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils,bat,N,Sunrisers Hyderabad,Wickets,6,NA
+Kolkata,2013,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals,bat,N,Kolkata Knight Riders,Wickets,8,NA
+Pune,2013,Pune Warriors,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,17,NA
+Chennai,2013,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,15,NA
+Raipur,2013,Delhi Daredevils,Kolkata Knight Riders,Shaheed Veer Narayan Singh International Stadium,Kolkata Knight Riders,bat,N,Delhi Daredevils,Wickets,7,NA
+Hyderabad,2013,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,bat,N,Sunrisers Hyderabad,Wickets,7,NA
+Pune,2013,Pune Warriors,Chennai Super Kings,Subrata Roy Sahara Stadium,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,37,NA
+Mumbai,2013,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,4,NA
+Jaipur,2013,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,4,NA
+Chennai,2013,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,field,N,Chennai Super Kings,Runs,14,NA
+Raipur,2013,Delhi Daredevils,Pune Warriors,Shaheed Veer Narayan Singh International Stadium,Pune Warriors,field,N,Delhi Daredevils,Runs,15,NA
+Mumbai,2013,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,58,NA
+Jaipur,2013,Rajasthan Royals,Sunrisers Hyderabad,Sawai Mansingh Stadium,Sunrisers Hyderabad,bat,N,Rajasthan Royals,Wickets,8,NA
+Kolkata,2013,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab,bat,N,Kolkata Knight Riders,Wickets,6,NA
+Chennai,2013,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,bat,N,Chennai Super Kings,Wickets,5,NA
+Kolkata,2013,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata Knight Riders,bat,N,Mumbai Indians,Wickets,5,NA
+Delhi,2013,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,5,NA
+Bangalore,2013,Royal Challengers Bangalore,Pune Warriors,M Chinnaswamy Stadium,Pune Warriors,field,N,Royal Challengers Bangalore,Runs,130,NA
+Chennai,2013,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,5,NA
+Chandigarh,2013,Kings XI Punjab,Pune Warriors,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,7,NA
+Delhi,2013,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Mumbai Indians,bat,N,Delhi Daredevils,Wickets,9,NA
+Bangalore,2013,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,NA
+Kolkata,2013,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata Knight Riders,bat,N,Chennai Super Kings,Wickets,4,NA
+Hyderabad,2013,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,bat,N,Sunrisers Hyderabad,Wickets,5,NA
+Delhi,2013,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,86,NA
+Jaipur,2013,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,87,NA
+Pune,2013,Pune Warriors,Sunrisers Hyderabad,Maharashtra Cricket Association Stadium,Pune Warriors,field,N,Sunrisers Hyderabad,Runs,11,NA
+Chandigarh,2013,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,field,N,Kings XI Punjab,Runs,4,NA
+Bangalore,2013,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,Y,Royal Challengers Bangalore,SuperOver,NA,NA
+Chennai,2013,Chennai Super Kings,Pune Warriors,"MA Chidambaram Stadium, Chepauk",Pune Warriors,bat,N,Pune Warriors,Runs,24,NA
+Jaipur,2013,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,NA
+Kolkata,2013,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,48,NA
+Chennai,2013,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,NA
+Mumbai,2013,Mumbai Indians,Pune Warriors,Wankhede Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,41,NA
+Delhi,2013,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,Delhi Daredevils,bat,N,Sunrisers Hyderabad,Wickets,3,NA
+Pune,2013,Pune Warriors,Rajasthan Royals,Subrata Roy Sahara Stadium,Rajasthan Royals,bat,N,Pune Warriors,Wickets,7,NA
+Bangalore,2013,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,8,NA
+Chandigarh,2013,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,field,N,Chennai Super Kings,Wickets,10,NA
+Bangalore,2013,Royal Challengers Bangalore,Sunrisers Hyderabad,M Chinnaswamy Stadium,Sunrisers Hyderabad,bat,N,Royal Challengers Bangalore,Wickets,7,NA
+Mumbai,2013,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,44,NA
+Jaipur,2013,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Kolkata Knight Riders,field,N,Rajasthan Royals,Runs,19,NA
+Hyderabad,2013,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,bat,Y,Sunrisers Hyderabad,SuperOver,NA,NA
+Pune,2013,Pune Warriors,Kings XI Punjab,Subrata Roy Sahara Stadium,Pune Warriors,bat,N,Kings XI Punjab,Wickets,8,NA
+Chennai,2013,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,bat,N,Mumbai Indians,Runs,9,NA
+Delhi,2013,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,5,NA
+Hyderabad,2013,Sunrisers Hyderabad,Pune Warriors,"Rajiv Gandhi International Stadium, Uppal",Pune Warriors,field,N,Sunrisers Hyderabad,Runs,22,NA
+Bangalore,2013,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians,field,N,Royal Challengers Bangalore,Runs,2,NA
+Kolkata,2013,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,NA
+Chennai,2012,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Kolkata Knight Riders,Wickets,5,NA
+Chennai,2012,Delhi Daredevils,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",Delhi Daredevils,field,N,Chennai Super Kings,Runs,86,NA
+Bangalore,2012,Chennai Super Kings,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians,field,N,Chennai Super Kings,Runs,38,NA
+Pune,2012,Delhi Daredevils,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,18,NA
+Jaipur,2012,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals,bat,N,Mumbai Indians,Wickets,10,NA
+Hyderabad,2012,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,field,N,Deccan Chargers,Runs,9,NA
+Pune,2012,Pune Warriors,Kolkata Knight Riders,Subrata Roy Sahara Stadium,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,34,NA
+Dharamsala,2012,Kings XI Punjab,Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,6,NA
+Hyderabad,2012,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,bat,N,Deccan Chargers,Wickets,5,NA
+Dharamsala,2012,Kings XI Punjab,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Delhi,2012,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi Daredevils,field,N,Royal Challengers Bangalore,Runs,21,NA
+Mumbai,2012,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians,field,N,Kolkata Knight Riders,Runs,32,NA
+Delhi,2012,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Kings XI Punjab,bat,N,Delhi Daredevils,Wickets,5,NA
+Kolkata,2012,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,NA
+Bangalore,2012,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Chandigarh,2012,Kings XI Punjab,Deccan Chargers,"Punjab Cricket Association Stadium, Mohali",Deccan Chargers,bat,N,Kings XI Punjab,Wickets,4,NA
+Jaipur,2012,Rajasthan Royals,Pune Warriors,Sawai Mansingh Stadium,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,45,NA
+Chennai,2012,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,field,N,Chennai Super Kings,Wickets,9,NA
+Kolkata,2012,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians,bat,N,Mumbai Indians,Runs,27,NA
+Pune,2012,Pune Warriors,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,Pune Warriors,field,N,Royal Challengers Bangalore,Runs,35,NA
+Jaipur,2012,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,NA
+Hyderabad,2012,Deccan Chargers,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,N,Delhi Daredevils,Wickets,9,NA
+Mumbai,2012,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,NA
+Hyderabad,2012,Deccan Chargers,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,field,N,Kings XI Punjab,Runs,25,NA
+Pune,2012,Pune Warriors,Rajasthan Royals,Subrata Roy Sahara Stadium,Pune Warriors,bat,N,Rajasthan Royals,Wickets,7,NA
+Delhi,2012,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils,bat,N,Kolkata Knight Riders,Wickets,6,NA
+Bangalore,2012,Royal Challengers Bangalore,Deccan Chargers,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,5,NA
+Mumbai,2012,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,2,NA
+Chandigarh,2012,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,bat,N,Rajasthan Royals,Runs,43,NA
+Kolkata,2012,Kolkata Knight Riders,Pune Warriors,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,7,NA
+Chennai,2012,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,10,NA
+Pune,2012,Pune Warriors,Mumbai Indians,Subrata Roy Sahara Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,1,NA
+Bangalore,2012,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,4,NA
+Jaipur,2012,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Rajasthan Royals,bat,N,Delhi Daredevils,Wickets,6,NA
+Cuttack,2012,Deccan Chargers,Pune Warriors,Barabati Stadium,Deccan Chargers,bat,N,Deccan Chargers,Runs,13,NA
+Chennai,2012,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Kolkata Knight Riders,Wickets,5,NA
+Mumbai,2012,Mumbai Indians,Deccan Chargers,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Delhi,2012,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,1,NA
+Kolkata,2012,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,47,NA
+Chennai,2012,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Kings XI Punjab,bat,N,Kings XI Punjab,Runs,7,NA
+Delhi,2012,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Mumbai Indians,field,N,Delhi Daredevils,Runs,37,NA
+Pune,2012,Pune Warriors,Deccan Chargers,Subrata Roy Sahara Stadium,Deccan Chargers,bat,N,Deccan Chargers,Runs,18,NA
+Chandigarh,2012,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,N,Mumbai Indians,Wickets,4,NA
+Pune,2012,Pune Warriors,Delhi Daredevils,Subrata Roy Sahara Stadium,Pune Warriors,bat,N,Delhi Daredevils,Wickets,8,NA
+Jaipur,2012,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Royal Challengers Bangalore,Runs,46,NA
+Mumbai,2012,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians,bat,N,Kings XI Punjab,Wickets,6,NA
+Cuttack,2012,Deccan Chargers,Kolkata Knight Riders,Barabati Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,NA
+Delhi,2012,Delhi Daredevils,Pune Warriors,Feroz Shah Kotla,Delhi Daredevils,field,N,Pune Warriors,Runs,20,NA
+Chennai,2012,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,7,NA
+Chandigarh,2012,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,5,NA
+Chennai,2012,Chennai Super Kings,Pune Warriors,"MA Chidambaram Stadium, Chepauk",Pune Warriors,field,N,Chennai Super Kings,Runs,13,NA
+Delhi,2012,Delhi Daredevils,Deccan Chargers,Feroz Shah Kotla,Deccan Chargers,bat,N,Delhi Daredevils,Wickets,5,NA
+Chandigarh,2012,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,N,Kolkata Knight Riders,Wickets,8,NA
+Bangalore,2012,Royal Challengers Bangalore,Pune Warriors,M Chinnaswamy Stadium,Pune Warriors,bat,N,Royal Challengers Bangalore,Wickets,6,NA
+Jaipur,2012,Rajasthan Royals,Deccan Chargers,Sawai Mansingh Stadium,Deccan Chargers,bat,N,Rajasthan Royals,Wickets,5,NA
+Mumbai,2012,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,7,NA
+Bangalore,2012,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,59,NA
+Kolkata,2012,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata Knight Riders,field,N,Kings XI Punjab,Runs,2,NA
+Pune,2012,Pune Warriors,Chennai Super Kings,Subrata Roy Sahara Stadium,Chennai Super Kings,bat,N,Pune Warriors,Wickets,7,NA
+Kolkata,2012,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals,bat,N,Kolkata Knight Riders,Wickets,5,NA
+Chandigarh,2012,Kings XI Punjab,Pune Warriors,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,7,NA
+Chennai,2012,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,bat,N,Chennai Super Kings,Wickets,5,NA
+Mumbai,2012,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Rajasthan Royals,field,N,Mumbai Indians,Runs,27,NA
+Delhi,2012,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,8,NA
+Bangalore,2012,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,42,NA
+Visakhapatnam,2012,Deccan Chargers,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers,bat,N,Mumbai Indians,Wickets,5,NA
+Pune,2012,Pune Warriors,Kings XI Punjab,Subrata Roy Sahara Stadium,Pune Warriors,bat,N,Pune Warriors,Runs,22,NA
+Jaipur,2012,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Kolkata Knight Riders,field,N,Rajasthan Royals,Runs,22,NA
+Visakhapatnam,2012,Deccan Chargers,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers,field,N,Chennai Super Kings,Runs,74,NA
+Bangalore,2012,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Delhi Daredevils,field,N,Royal Challengers Bangalore,Runs,20,NA
+Jaipur,2012,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Kings XI Punjab,field,N,Rajasthan Royals,Runs,31,NA
+Mumbai,2012,Mumbai Indians,Pune Warriors,Wankhede Stadium,Mumbai Indians,field,N,Pune Warriors,Runs,28,NA
+Kolkata,2012,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,8,NA
+Chennai,2012,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,field,N,Mumbai Indians,Wickets,8,NA
+Chennai,2011,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,58,NA
+Chennai,2011,Royal Challengers Bangalore,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,field,N,Royal Challengers Bangalore,Runs,43,NA
+Mumbai,2011,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,NA
+Mumbai,2011,Royal Challengers Bangalore,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Kolkata,2011,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Bangalore,2011,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,8,NA
+Delhi,2011,Delhi Daredevils,Pune Warriors,Feroz Shah Kotla,Delhi Daredevils,bat,NA,NA,NoResults,NA,NA
+Dharamsala,2011,Kings XI Punjab,Deccan Chargers,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,field,N,Deccan Chargers,Runs,82,NA
+Mumbai,2011,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,Mumbai Indians,bat,N,Rajasthan Royals,Wickets,10,NA
+Mumbai,2011,Pune Warriors,Kolkata Knight Riders,Dr DY Patil Sports Academy,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Chennai,2011,Chennai Super Kings,Kochi Tuskers Kerala,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,11,NA
+Dharamsala,2011,Kings XI Punjab,Royal Challengers Bangalore,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,bat,N,Kings XI Punjab,Runs,111,NA
+Mumbai,2011,Pune Warriors,Deccan Chargers,Dr DY Patil Sports Academy,Deccan Chargers,field,N,Deccan Chargers,Wickets,6,NA
+Indore,2011,Kochi Tuskers Kerala,Rajasthan Royals,Holkar Cricket Stadium,Kochi Tuskers Kerala,field,N,Kochi Tuskers Kerala,Wickets,8,NA
+Dharamsala,2011,Kings XI Punjab,Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,Delhi Daredevils,field,N,Kings XI Punjab,Runs,29,NA
+Bangalore,2011,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,D/L
+Mumbai,2011,Mumbai Indians,Deccan Chargers,Wankhede Stadium,Deccan Chargers,bat,N,Deccan Chargers,Runs,10,NA
+Indore,2011,Kochi Tuskers Kerala,Kings XI Punjab,Holkar Cricket Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Chennai,2011,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,18,NA
+Jaipur,2011,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,NA
+Chandigarh,2011,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,field,N,Kings XI Punjab,Runs,76,NA
+Hyderabad,2011,Deccan Chargers,Pune Warriors,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,N,Pune Warriors,Wickets,6,NA
+Jaipur,2011,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Chennai Super Kings,Runs,63,NA
+Chandigarh,2011,Kings XI Punjab,Pune Warriors,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,N,Pune Warriors,Wickets,5,NA
+Bangalore,2011,Royal Challengers Bangalore,Kochi Tuskers Kerala,M Chinnaswamy Stadium,Kochi Tuskers Kerala,bat,N,Royal Challengers Bangalore,Wickets,9,NA
+Mumbai,2011,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,Delhi Daredevils,field,N,Mumbai Indians,Runs,32,NA
+Kolkata,2011,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Chennai Super Kings,bat,N,Kolkata Knight Riders,Runs,10,D/L
+Bangalore,2011,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab,field,N,Royal Challengers Bangalore,Runs,85,NA
+Hyderabad,2011,Deccan Chargers,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Delhi Daredevils,field,N,Delhi Daredevils,Wickets,4,NA
+Kochi,2011,Kochi Tuskers Kerala,Kolkata Knight Riders,Nehru Stadium,Kolkata Knight Riders,field,N,Kochi Tuskers Kerala,Runs,17,NA
+Mumbai,2011,Pune Warriors,Mumbai Indians,Dr DY Patil Sports Academy,Pune Warriors,field,N,Mumbai Indians,Runs,21,NA
+Chennai,2011,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,8,NA
+Hyderabad,2011,Deccan Chargers,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,field,N,Kolkata Knight Riders,Runs,20,NA
+Delhi,2011,Delhi Daredevils,Kochi Tuskers Kerala,Feroz Shah Kotla,Kochi Tuskers Kerala,field,N,Kochi Tuskers Kerala,Wickets,7,NA
+Mumbai,2011,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Kings XI Punjab,field,N,Mumbai Indians,Runs,23,NA
+Jaipur,2011,Rajasthan Royals,Pune Warriors,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,NA
+Chennai,2011,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,19,NA
+Kochi,2011,Kochi Tuskers Kerala,Delhi Daredevils,Nehru Stadium,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,38,NA
+Kolkata,2011,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,NA
+Bangalore,2011,Royal Challengers Bangalore,Pune Warriors,M Chinnaswamy Stadium,Pune Warriors,field,N,Royal Challengers Bangalore,Runs,26,NA
+Jaipur,2011,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Delhi,2011,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils,field,N,Kolkata Knight Riders,Runs,17,NA
+Mumbai,2011,Pune Warriors,Chennai Super Kings,Dr DY Patil Sports Academy,Pune Warriors,bat,N,Chennai Super Kings,Wickets,8,NA
+Kochi,2011,Kochi Tuskers Kerala,Deccan Chargers,Nehru Stadium,Kochi Tuskers Kerala,field,N,Deccan Chargers,Runs,55,NA
+Delhi,2011,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,3,NA
+Chennai,2011,Chennai Super Kings,Pune Warriors,"MA Chidambaram Stadium, Chepauk",Pune Warriors,field,N,Chennai Super Kings,Runs,25,NA
+Jaipur,2011,Rajasthan Royals,Kochi Tuskers Kerala,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,8,NA
+Hyderabad,2011,Deccan Chargers,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,field,N,Mumbai Indians,Runs,37,NA
+Delhi,2011,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Kings XI Punjab,field,N,Delhi Daredevils,Runs,29,NA
+Kolkata,2011,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,NA
+Mumbai,2011,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Chennai Super Kings,field,N,Mumbai Indians,Runs,8,NA
+Chandigarh,2011,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,field,N,Kings XI Punjab,Runs,48,NA
+Mumbai,2011,Mumbai Indians,Pune Warriors,Wankhede Stadium,Pune Warriors,bat,N,Mumbai Indians,Wickets,7,NA
+Kolkata,2011,Kolkata Knight Riders,Kochi Tuskers Kerala,Eden Gardens,Kolkata Knight Riders,field,N,Kochi Tuskers Kerala,Runs,6,NA
+Delhi,2011,Delhi Daredevils,Deccan Chargers,Feroz Shah Kotla,Deccan Chargers,bat,N,Deccan Chargers,Runs,16,NA
+Kochi,2011,Kochi Tuskers Kerala,Chennai Super Kings,Nehru Stadium,Kochi Tuskers Kerala,field,N,Kochi Tuskers Kerala,Wickets,7,D/L
+Kolkata,2011,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,NA
+Mumbai,2011,Pune Warriors,Delhi Daredevils,Dr DY Patil Sports Academy,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,3,NA
+Hyderabad,2011,Deccan Chargers,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,8,NA
+Chennai,2011,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,21,NA
+Mumbai,2011,Mumbai Indians,Kochi Tuskers Kerala,Wankhede Stadium,Kochi Tuskers Kerala,field,N,Kochi Tuskers Kerala,Wickets,8,NA
+Jaipur,2011,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,9,NA
+Hyderabad,2011,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,field,N,Deccan Chargers,Runs,33,NA
+Mumbai,2011,Pune Warriors,Kochi Tuskers Kerala,Dr DY Patil Sports Academy,Kochi Tuskers Kerala,bat,N,Pune Warriors,Wickets,4,NA
+Chandigarh,2011,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Jaipur,2011,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Delhi Daredevils,bat,N,Rajasthan Royals,Wickets,6,NA
+Bangalore,2011,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,NA
+Kolkata,2011,Kolkata Knight Riders,Deccan Chargers,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,9,NA
+Mumbai,2011,Pune Warriors,Kings XI Punjab,Dr DY Patil Sports Academy,Kings XI Punjab,bat,N,Pune Warriors,Wickets,7,NA
+Delhi,2011,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Delhi Daredevils,bat,N,Mumbai Indians,Wickets,8,NA
+Kochi,2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,Nehru Stadium,Kochi Tuskers Kerala,bat,N,Royal Challengers Bangalore,Wickets,6,NA
+Hyderabad,2011,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,field,N,Rajasthan Royals,Wickets,8,NA
+Chennai,2011,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,2,NA
+Mumbai,2009/10,Chennai Super Kings,Mumbai Indians,Dr DY Patil Sports Academy,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,22,NA
+Mumbai,2009/10,Royal Challengers Bangalore,Deccan Chargers,Dr DY Patil Sports Academy,Deccan Chargers,bat,N,Royal Challengers Bangalore,Wickets,9,NA
+Mumbai,2009/10,Chennai Super Kings,Deccan Chargers,Dr DY Patil Sports Academy,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,38,NA
+Mumbai,2009/10,Royal Challengers Bangalore,Mumbai Indians,Dr DY Patil Sports Academy,Mumbai Indians,bat,N,Mumbai Indians,Runs,35,NA
+Kolkata,2009/10,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Mumbai Indians,bat,N,Kolkata Knight Riders,Wickets,9,NA
+Delhi,2009/10,Delhi Daredevils,Deccan Chargers,Feroz Shah Kotla,Deccan Chargers,bat,N,Deccan Chargers,Runs,11,NA
+Dharamsala,2009/10,Kings XI Punjab,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,NA
+Kolkata,2009/10,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals,bat,N,Kolkata Knight Riders,Wickets,8,NA
+Bangalore,2009/10,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,57,NA
+Dharamsala,2009/10,Kings XI Punjab,Deccan Chargers,Himachal Pradesh Cricket Association Stadium,Deccan Chargers,field,N,Deccan Chargers,Wickets,5,NA
+Chennai,2009/10,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Delhi Daredevils,Wickets,6,NA
+Jaipur,2009/10,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Rajasthan Royals,bat,N,Royal Challengers Bangalore,Wickets,5,NA
+Chennai,2009/10,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,bat,N,Chennai Super Kings,Wickets,9,NA
+Mumbai,2009/10,Mumbai Indians,Delhi Daredevils,Brabourne Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,39,NA
+Nagpur,2009/10,Deccan Chargers,Royal Challengers Bangalore,"Vidarbha Cricket Association Stadium, Jamtha",Royal Challengers Bangalore,field,N,Deccan Chargers,Runs,13,NA
+Jaipur,2009/10,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Mumbai Indians,Runs,37,NA
+Delhi,2009/10,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils,bat,N,Kings XI Punjab,Wickets,7,NA
+Bangalore,2009/10,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,NA
+Nagpur,2009/10,Deccan Chargers,Chennai Super Kings,"Vidarbha Cricket Association Stadium, Jamtha",Chennai Super Kings,bat,N,Deccan Chargers,Wickets,6,NA
+Chandigarh,2009/10,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,bat,N,Kings XI Punjab,Wickets,6,NA
+Bangalore,2009/10,Royal Challengers Bangalore,Deccan Chargers,M Chinnaswamy Stadium,Deccan Chargers,field,N,Deccan Chargers,Wickets,7,NA
+Kolkata,2009/10,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,14,NA
+Jaipur,2009/10,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Kings XI Punjab,bat,N,Rajasthan Royals,Wickets,9,NA
+Chennai,2009/10,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,24,NA
+Nagpur,2009/10,Deccan Chargers,Rajasthan Royals,"Vidarbha Cricket Association Stadium, Jamtha",Rajasthan Royals,bat,N,Rajasthan Royals,Runs,2,NA
+Kolkata,2009/10,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kolkata Knight Riders,bat,N,Kings XI Punjab,Wickets,8,NA
+Delhi,2009/10,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,37,NA
+Mumbai,2009/10,Mumbai Indians,Deccan Chargers,Brabourne Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,63,NA
+Chennai,2009/10,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,23,NA
+Chandigarh,2009/10,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,N,Royal Challengers Bangalore,Wickets,6,NA
+Kolkata,2009/10,Kolkata Knight Riders,Deccan Chargers,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,24,NA
+Delhi,2009/10,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,67,NA
+Chennai,2009/10,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,bat,N,Chennai Super Kings,Wickets,5,NA
+Mumbai,2009/10,Mumbai Indians,Kings XI Punjab,Brabourne Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,NA
+Delhi,2009/10,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,40,NA
+Mumbai,2009/10,Deccan Chargers,Mumbai Indians,Dr DY Patil Sports Academy,Deccan Chargers,field,N,Mumbai Indians,Runs,41,NA
+Ahmedabad,2009/10,Rajasthan Royals,Chennai Super Kings,"Sardar Patel Stadium, Motera",Rajasthan Royals,bat,N,Rajasthan Royals,Runs,17,NA
+Chandigarh,2009/10,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,39,NA
+Ahmedabad,2009/10,Rajasthan Royals,Deccan Chargers,"Sardar Patel Stadium, Motera",Deccan Chargers,bat,N,Rajasthan Royals,Wickets,8,NA
+Mumbai,2009/10,Chennai Super Kings,Mumbai Indians,"Brabourne Stadium, Mumbai",Mumbai Indians,field,N,Mumbai Indians,Wickets,5,NA
+Bangalore,2009/10,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Delhi Daredevils,Runs,17,NA
+Chandigarh,2009/10,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Rajasthan Royals,Runs,31,NA
+Bangalore,2009/10,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings,field,N,Royal Challengers Bangalore,Runs,36,NA
+Mumbai,2009/10,Mumbai Indians,Kolkata Knight Riders,Brabourne Stadium,Kolkata Knight Riders,bat,N,Mumbai Indians,Wickets,7,NA
+Chennai,2009/10,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,field,Y,Kings XI Punjab,SuperOver,NA,NA
+Cuttack,2009/10,Deccan Chargers,Delhi Daredevils,Barabati Stadium,Deccan Chargers,bat,N,Deccan Chargers,Runs,10,NA
+Mumbai,2009/10,Mumbai Indians,Royal Challengers Bangalore,Brabourne Stadium,Mumbai Indians,bat,N,Royal Challengers Bangalore,Wickets,7,NA
+Ahmedabad,2009/10,Rajasthan Royals,Kolkata Knight Riders,"Sardar Patel Stadium, Motera",Rajasthan Royals,bat,N,Rajasthan Royals,Runs,34,NA
+Delhi,2009/10,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Delhi Daredevils,bat,N,Chennai Super Kings,Wickets,5,NA
+Cuttack,2009/10,Deccan Chargers,Kings XI Punjab,Barabati Stadium,Kings XI Punjab,field,N,Deccan Chargers,Runs,6,NA
+Bangalore,2009/10,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,10,NA
+Delhi,2009/10,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Delhi Daredevils,field,N,Mumbai Indians,Runs,98,NA
+Kolkata,2009/10,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,55,NA
+Bangalore,2009/10,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab,bat,N,Royal Challengers Bangalore,Wickets,8,NA
+Ahmedabad,2009/10,Rajasthan Royals,Delhi Daredevils,"Sardar Patel Stadium, Motera",Delhi Daredevils,field,N,Delhi Daredevils,Wickets,6,NA
+Kolkata,2009/10,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NA
+Chennai,2009/10,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",Deccan Chargers,bat,N,Deccan Chargers,Runs,31,NA
+Chandigarh,2009/10,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,field,N,Delhi Daredevils,Wickets,5,NA
+Mumbai,2009/10,Mumbai Indians,Rajasthan Royals,Brabourne Stadium,Mumbai Indians,bat,N,Mumbai Indians,Runs,4,NA
+Mumbai,2009/10,Deccan Chargers,Kolkata Knight Riders,Dr DY Patil Sports Academy,Deccan Chargers,field,N,Kolkata Knight Riders,Runs,11,NA
+Johannesburg,2009,Royal Challengers Bangalore,Deccan Chargers,New Wanderers Stadium,Royal Challengers Bangalore,field,N,Deccan Chargers,Runs,6,NA
+Johannesburg,2009,Royal Challengers Bangalore,Chennai Super Kings,New Wanderers Stadium,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,6,NA
+Centurion,2009,Delhi Daredevils,Deccan Chargers,SuperSport Park,Deccan Chargers,field,N,Deccan Chargers,Wickets,6,NA
+Centurion,2009,Royal Challengers Bangalore,Deccan Chargers,SuperSport Park,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,12,NA
+Centurion,2009,Delhi Daredevils,Mumbai Indians,SuperSport Park,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,4,NA
+Durban,2009,Chennai Super Kings,Kings XI Punjab,Kingsmead,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,24,NA
+Durban,2009,Kolkata Knight Riders,Rajasthan Royals,Kingsmead,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,4,NA
+Johannesburg,2009,Royal Challengers Bangalore,Delhi Daredevils,New Wanderers Stadium,Delhi Daredevils,bat,N,Royal Challengers Bangalore,Wickets,7,NA
+Centurion,2009,Chennai Super Kings,Kolkata Knight Riders,SuperSport Park,Chennai Super Kings,bat,N,Kolkata Knight Riders,Wickets,7,NA
+Bloemfontein,2009,Delhi Daredevils,Rajasthan Royals,OUTsurance Oval,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,14,NA
+Johannesburg,2009,Deccan Chargers,Kings XI Punjab,New Wanderers Stadium,Deccan Chargers,field,N,Kings XI Punjab,Runs,1,NA
+Port Elizabeth,2009,Chennai Super Kings,Mumbai Indians,St George's Park,Mumbai Indians,bat,N,Chennai Super Kings,Wickets,7,NA
+Johannesburg,2009,Deccan Chargers,Kolkata Knight Riders,New Wanderers Stadium,Deccan Chargers,field,N,Deccan Chargers,Wickets,6,NA
+Bloemfontein,2009,Delhi Daredevils,Kings XI Punjab,OUTsurance Oval,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Durban,2009,Mumbai Indians,Rajasthan Royals,Kingsmead,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,2,NA
+Durban,2009,Royal Challengers Bangalore,Chennai Super Kings,Kingsmead,Chennai Super Kings,bat,N,Royal Challengers Bangalore,Wickets,2,NA
+Durban,2009,Deccan Chargers,Delhi Daredevils,Kingsmead,Deccan Chargers,field,N,Delhi Daredevils,Runs,12,NA
+Centurion,2009,Kings XI Punjab,Mumbai Indians,SuperSport Park,Kings XI Punjab,bat,N,Mumbai Indians,Wickets,8,NA
+Centurion,2009,Royal Challengers Bangalore,Kolkata Knight Riders,SuperSport Park,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,6,NA
+Kimberley,2009,Deccan Chargers,Rajasthan Royals,De Beers Diamond Oval,Deccan Chargers,bat,N,Deccan Chargers,Runs,53,NA
+Johannesburg,2009,Delhi Daredevils,Kolkata Knight Riders,New Wanderers Stadium,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,7,NA
+Port Elizabeth,2009,Royal Challengers Bangalore,Mumbai Indians,St George's Park,Mumbai Indians,bat,N,Mumbai Indians,Runs,16,NA
+Kimberley,2009,Deccan Chargers,Kings XI Punjab,De Beers Diamond Oval,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,3,NA
+Kimberley,2009,Chennai Super Kings,Rajasthan Royals,De Beers Diamond Oval,Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,7,NA
+East London,2009,Delhi Daredevils,Mumbai Indians,Buffalo Park,Mumbai Indians,bat,N,Delhi Daredevils,Wickets,7,NA
+Centurion,2009,Chennai Super Kings,Kings XI Punjab,SuperSport Park,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,12,D/L
+Centurion,2009,Royal Challengers Bangalore,Rajasthan Royals,SuperSport Park,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Centurion,2009,Deccan Chargers,Mumbai Indians,SuperSport Park,Deccan Chargers,bat,N,Deccan Chargers,Runs,19,NA
+Durban,2009,Delhi Daredevils,Kolkata Knight Riders,Kingsmead,Kolkata Knight Riders,bat,N,Delhi Daredevils,Wickets,9,NA
+Durban,2009,Kings XI Punjab,Rajasthan Royals,Kingsmead,Kings XI Punjab,field,N,Rajasthan Royals,Runs,78,NA
+East London,2009,Chennai Super Kings,Deccan Chargers,Buffalo Park,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,78,NA
+Johannesburg,2009,Royal Challengers Bangalore,Mumbai Indians,New Wanderers Stadium,Mumbai Indians,bat,N,Royal Challengers Bangalore,Wickets,9,NA
+Port Elizabeth,2009,Kings XI Punjab,Kolkata Knight Riders,St George's Park,Kolkata Knight Riders,bat,N,Kings XI Punjab,Wickets,6,NA
+Port Elizabeth,2009,Deccan Chargers,Rajasthan Royals,St George's Park,Deccan Chargers,bat,N,Rajasthan Royals,Wickets,3,NA
+Johannesburg,2009,Chennai Super Kings,Delhi Daredevils,New Wanderers Stadium,Delhi Daredevils,field,N,Chennai Super Kings,Runs,18,NA
+East London,2009,Kolkata Knight Riders,Mumbai Indians,Buffalo Park,Mumbai Indians,bat,N,Mumbai Indians,Runs,9,NA
+Durban,2009,Royal Challengers Bangalore,Kings XI Punjab,Kingsmead,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,8,NA
+Centurion,2009,Chennai Super Kings,Rajasthan Royals,SuperSport Park,Rajasthan Royals,field,N,Chennai Super Kings,Runs,38,NA
+Centurion,2009,Deccan Chargers,Delhi Daredevils,SuperSport Park,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,6,NA
+Durban,2009,Kings XI Punjab,Mumbai Indians,Kingsmead,Kings XI Punjab,bat,N,Kings XI Punjab,Runs,3,NA
+Durban,2009,Royal Challengers Bangalore,Kolkata Knight Riders,Kingsmead,Kolkata Knight Riders,bat,N,Royal Challengers Bangalore,Wickets,5,NA
+Centurion,2009,Delhi Daredevils,Rajasthan Royals,SuperSport Park,Delhi Daredevils,bat,N,Rajasthan Royals,Wickets,5,NA
+Port Elizabeth,2009,Kolkata Knight Riders,Mumbai Indians,St George's Park,Mumbai Indians,bat,N,Mumbai Indians,Runs,92,NA
+Durban,2009,Chennai Super Kings,Deccan Chargers,Kingsmead,Deccan Chargers,field,N,Deccan Chargers,Wickets,6,NA
+Port Elizabeth,2009,Royal Challengers Bangalore,Delhi Daredevils,St George's Park,Royal Challengers Bangalore,bat,N,Delhi Daredevils,Wickets,6,NA
+Cape Town,2009,Kings XI Punjab,Rajasthan Royals,Newlands,Kings XI Punjab,bat,N,Kings XI Punjab,Runs,27,NA
+Durban,2009,Deccan Chargers,Mumbai Indians,Kingsmead,Deccan Chargers,bat,N,Deccan Chargers,Runs,12,NA
+Durban,2009,Royal Challengers Bangalore,Kings XI Punjab,Kingsmead,Royal Challengers Bangalore,bat,N,Kings XI Punjab,Wickets,7,NA
+Cape Town,2009,Kolkata Knight Riders,Rajasthan Royals,Newlands,Kolkata Knight Riders,field,Y,Rajasthan Royals,SuperOver,NA,NA
+Durban,2009,Chennai Super Kings,Delhi Daredevils,Kingsmead,Delhi Daredevils,bat,N,Delhi Daredevils,Runs,9,NA
+Cape Town,2009,Royal Challengers Bangalore,Deccan Chargers,Newlands,Deccan Chargers,bat,N,Deccan Chargers,Runs,24,NA
+Durban,2009,Kings XI Punjab,Kolkata Knight Riders,Kingsmead,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Runs,11,D/L
+Port Elizabeth,2009,Royal Challengers Bangalore,Chennai Super Kings,St George's Park,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,92,NA
+Cape Town,2009,Deccan Chargers,Kolkata Knight Riders,Newlands,Kolkata Knight Riders,bat,N,Deccan Chargers,Wickets,8,NA
+Cape Town,2009,Delhi Daredevils,Kings XI Punjab,Newlands,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,10,D/L
+Cape Town,2009,Royal Challengers Bangalore,Rajasthan Royals,Newlands,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,75,NA
+Cape Town,2009,Chennai Super Kings,Mumbai Indians,Newlands,Chennai Super Kings,field,N,Mumbai Indians,Runs,19,NA
+Mumbai,2007/08,Chennai Super Kings,Rajasthan Royals,Dr DY Patil Sports Academy,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,NA
+Mumbai,2007/08,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,Kings XI Punjab,bat,N,Chennai Super Kings,Wickets,9,NA
+Mumbai,2007/08,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,Delhi Daredevils,field,N,Rajasthan Royals,Runs,105,NA
+Chandigarh,2007/08,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,field,N,Kings XI Punjab,Runs,41,NA
+Bangalore,2007/08,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,NA
+Hyderabad,2007/08,Deccan Chargers,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,N,Chennai Super Kings,Wickets,7,NA
+Jaipur,2007/08,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,5,NA
+Kolkata,2007/08,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,Kings XI Punjab,bat,N,Kolkata Knight Riders,Wickets,3,NA
+Hyderabad,2007/08,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,N,Royal Challengers Bangalore,Wickets,5,NA
+Chennai,2007/08,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,bat,N,Rajasthan Royals,Runs,10,NA
+Delhi,2007/08,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,5,NA
+Chandigarh,2007/08,Kings XI Punjab,Deccan Chargers,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Chennai,2007/08,Chennai Super Kings,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,14,NA
+Mumbai,2007/08,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,Mumbai Indians,field,N,Kings XI Punjab,Runs,1,NA
+Kolkata,2007/08,Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,NA
+Bangalore,2007/08,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,Delhi Daredevils,field,N,Delhi Daredevils,Wickets,5,NA
+Kolkata,2007/08,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,Kolkata Knight Riders,bat,N,Chennai Super Kings,Runs,3,D/L
+Hyderabad,2007/08,Deccan Chargers,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,field,N,Mumbai Indians,Runs,25,NA
+Delhi,2007/08,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,Delhi Daredevils,bat,N,Kings XI Punjab,Runs,6,D/L
+Jaipur,2007/08,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,Royal Challengers Bangalore,field,N,Rajasthan Royals,Runs,65,NA
+Mumbai,2007/08,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,NA
+Delhi,2007/08,Delhi Daredevils,Deccan Chargers,Feroz Shah Kotla,Deccan Chargers,field,N,Delhi Daredevils,Runs,12,NA
+Mumbai,2007/08,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,NA
+Kolkata,2007/08,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,23,NA
+Chandigarh,2007/08,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,bat,N,Kings XI Punjab,Wickets,9,NA
+Jaipur,2007/08,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,NA
+Hyderabad,2007/08,Deccan Chargers,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,23,NA
+Chennai,2007/08,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",Kings XI Punjab,field,N,Chennai Super Kings,Runs,18,NA
+Jaipur,2007/08,Rajasthan Royals,Deccan Chargers,Sawai Mansingh Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,8,NA
+Delhi,2007/08,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,NA
+Kolkata,2007/08,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,5,NA
+Mumbai,2007/08,Mumbai Indians,Rajasthan Royals,Dr DY Patil Sports Academy,Mumbai Indians,field,N,Mumbai Indians,Wickets,7,NA
+Chennai,2007/08,Chennai Super Kings,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",Deccan Chargers,field,N,Deccan Chargers,Wickets,7,NA
+Bangalore,2007/08,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,Kings XI Punjab,field,N,Kings XI Punjab,Wickets,6,NA
+Jaipur,2007/08,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,8,NA
+Mumbai,2007/08,Mumbai Indians,Delhi Daredevils,Dr DY Patil Sports Academy,Delhi Daredevils,field,N,Mumbai Indians,Runs,29,NA
+Bangalore,2007/08,Royal Challengers Bangalore,Deccan Chargers,M Chinnaswamy Stadium,Deccan Chargers,field,N,Royal Challengers Bangalore,Runs,3,NA
+Chandigarh,2007/08,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,bat,N,Kings XI Punjab,Runs,9,NA
+Chennai,2007/08,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,bat,N,Delhi Daredevils,Wickets,8,NA
+Jaipur,2007/08,Rajasthan Royals,Kolkata Knight Riders,Sawai Mansingh Stadium,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,45,NA
+Hyderabad,2007/08,Deccan Chargers,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,field,N,Kings XI Punjab,Wickets,7,NA
+Delhi,2007/08,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,Royal Challengers Bangalore,field,N,Delhi Daredevils,Runs,10,NA
+Kolkata,2007/08,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,Kolkata Knight Riders,bat,N,Mumbai Indians,Wickets,7,NA
+Bangalore,2007/08,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,13,NA
+Chandigarh,2007/08,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,bat,N,Kings XI Punjab,Wickets,4,NA
+Mumbai,2007/08,Mumbai Indians,Deccan Chargers,Dr DY Patil Sports Academy,Deccan Chargers,field,N,Deccan Chargers,Wickets,10,NA
+Chennai,2007/08,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,bat,N,Chennai Super Kings,Wickets,9,NA
+Bangalore,2007/08,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,NA
+Chandigarh,2007/08,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,field,N,Kings XI Punjab,Runs,66,NA
+Hyderabad,2007/08,Deccan Chargers,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,NA
+Chennai,2007/08,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,field,N,Chennai Super Kings,Runs,6,NA
+Hyderabad,2007/08,Deccan Chargers,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,bat,N,Delhi Daredevils,Wickets,9,NA
+Jaipur,2007/08,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,Kings XI Punjab,bat,N,Rajasthan Royals,Wickets,6,NA
+Kolkata,2007/08,Kolkata Knight Riders,Deccan Chargers,Eden Gardens,Deccan Chargers,bat,N,Kolkata Knight Riders,Wickets,5,NA
+Mumbai,2007/08,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,Mumbai Indians,bat,N,Royal Challengers Bangalore,Wickets,5,NA
+Delhi,2007/08,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,Rajasthan Royals,bat,N,Delhi Daredevils,Wickets,9,NA
+Chandigarh,2007/08,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,bat,N,Chennai Super Kings,Runs,33,NA
+Bangalore,2007/08,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,140,NA
